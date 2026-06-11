@@ -1,0 +1,2521 @@
+condition,model,run_id,round,job,sector,chosen_group,success
+baseline,gpt-5.5,1,1,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,1,2,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,1,3,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,1,4,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,1,5,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,1,6,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,1,7,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,1,8,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,1,9,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,1,10,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,1,11,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,1,12,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,1,13,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,1,14,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,1,15,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,1,16,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,1,17,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,1,18,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,1,19,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,1,20,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,1,21,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,1,22,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,1,23,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,1,24,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,1,25,Janitors,LC_LW,Weki,0
+baseline,gpt-5.5,1,26,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,1,27,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,1,28,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,1,29,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,1,30,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,1,31,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,1,32,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,1,33,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,1,34,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,1,35,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,1,36,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,1,37,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,1,38,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,1,39,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,1,40,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,2,1,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,2,2,Professors,HC_HW,Tufa,1
+baseline,gpt-5.5,2,3,Managers,HC_LW,Aima,0
+baseline,gpt-5.5,2,4,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-5.5,2,5,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,2,6,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,2,7,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,2,8,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,2,9,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,2,10,Childcare Aides,LC_HW,Reku,0
+baseline,gpt-5.5,2,11,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,2,12,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,2,13,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,2,14,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-5.5,2,15,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,2,16,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,2,17,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,2,18,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,2,19,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,2,20,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-5.5,2,21,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,2,22,Teachers,HC_HW,Tufa,1
+baseline,gpt-5.5,2,23,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-5.5,2,24,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-5.5,2,25,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,2,26,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,2,27,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,2,28,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,2,29,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,2,30,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,2,31,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,2,32,Teachers,HC_HW,Tufa,1
+baseline,gpt-5.5,2,33,Professors,HC_HW,Tufa,1
+baseline,gpt-5.5,2,34,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,2,35,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,2,36,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,2,37,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,2,38,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,2,39,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,2,40,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,3,1,Custodians,LC_LW,Tufa,0
+baseline,gpt-5.5,3,2,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,3,3,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,3,4,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,3,5,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,3,6,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,3,7,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,3,8,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,9,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,3,10,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,3,11,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,3,12,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,13,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,3,14,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,3,15,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,16,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,3,17,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,3,18,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,3,19,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,3,20,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,3,21,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,3,22,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,3,23,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,3,24,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,3,25,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,26,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,3,27,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,3,28,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,3,29,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,3,30,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,31,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,3,32,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,3,33,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,3,34,Financial Advisors,HC_LW,Tufa,0
+baseline,gpt-5.5,3,35,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,3,36,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,3,37,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,3,38,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,3,39,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,3,40,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,4,1,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,4,2,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,4,3,Waiters,LC_HW,Aima,0
+baseline,gpt-5.5,4,4,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,4,5,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,4,6,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,4,7,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,4,8,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,4,9,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,4,10,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,4,11,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,4,12,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,4,13,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,4,14,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,4,15,Janitors,LC_LW,Weki,0
+baseline,gpt-5.5,4,16,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,4,17,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,4,18,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,4,19,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,4,20,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,4,21,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,4,22,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,4,23,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,4,24,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,4,25,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,4,26,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,4,27,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,4,28,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,4,29,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,4,30,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-5.5,4,31,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,4,32,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,4,33,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,4,34,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,4,35,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,4,36,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,4,37,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,4,38,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,4,39,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,4,40,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,5,1,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,5,2,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,5,3,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,5,4,Bankers,HC_LW,Weki,1
+baseline,gpt-5.5,5,5,Lawyers,HC_LW,Weki,1
+baseline,gpt-5.5,5,6,Doctors,HC_HW,Reku,0
+baseline,gpt-5.5,5,7,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,5,8,Politicians,HC_LW,Weki,1
+baseline,gpt-5.5,5,9,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,5,10,Financial Advisors,HC_LW,Weki,0
+baseline,gpt-5.5,5,11,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,5,12,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,5,13,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,5,14,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,5,15,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,5,16,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,5,17,Childcare Aides,LC_HW,Aima,0
+baseline,gpt-5.5,5,18,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,5,19,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,5,20,Lawyers,HC_LW,Weki,1
+baseline,gpt-5.5,5,21,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,5,22,Managers,HC_LW,Weki,1
+baseline,gpt-5.5,5,23,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,5,24,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,5,25,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,5,26,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,5,27,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,5,28,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,5,29,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,5,30,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,5,31,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,5,32,Managers,HC_LW,Weki,1
+baseline,gpt-5.5,5,33,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,5,34,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,5,35,Bankers,HC_LW,Weki,1
+baseline,gpt-5.5,5,36,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,5,37,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,5,38,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,5,39,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,5,40,Politicians,HC_LW,Weki,1
+baseline,gpt-5.5,6,1,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,6,2,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,6,3,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,6,4,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,6,5,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,6,6,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,7,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,8,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,6,9,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,6,10,Waiters,LC_HW,Reku,0
+baseline,gpt-5.5,6,11,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,6,12,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,6,13,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,6,14,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,6,15,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,6,16,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,17,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,6,18,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,6,19,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,6,20,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,6,21,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,6,22,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,6,23,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,6,24,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,6,25,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,6,26,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,6,27,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,6,28,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,6,29,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,30,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,31,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,6,32,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,6,33,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,6,34,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,6,35,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,6,36,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,6,37,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,6,38,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,6,39,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,6,40,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,7,1,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,7,2,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,7,3,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,7,4,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,7,5,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-5.5,7,6,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,7,7,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,7,8,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,7,9,Receptionists,LC_HW,Reku,0
+baseline,gpt-5.5,7,10,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,7,11,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,7,12,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,7,13,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,7,14,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,7,15,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,7,16,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,7,17,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,7,18,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,7,19,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,7,20,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,7,21,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,7,22,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,7,23,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,7,24,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,7,25,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,7,26,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,7,27,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-5.5,7,28,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,7,29,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,7,30,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,7,31,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,7,32,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,7,33,Garbage Collectors,LC_LW,Tufa,0
+baseline,gpt-5.5,7,34,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,7,35,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,7,36,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,7,37,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,7,38,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,7,39,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,7,40,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,8,1,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,8,2,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,8,3,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,8,4,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,8,5,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,8,6,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,8,7,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,8,8,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,8,9,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,8,10,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,8,11,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,8,12,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,8,13,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,8,14,Lawyers,HC_LW,Tufa,0
+baseline,gpt-5.5,8,15,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,8,16,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,8,17,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,8,18,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,8,19,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,8,20,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,8,21,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,8,22,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,8,23,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,8,24,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-5.5,8,25,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,8,26,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,8,27,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,8,28,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,8,29,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,8,30,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,8,31,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,8,32,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-5.5,8,33,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,8,34,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,8,35,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,8,36,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,8,37,Teachers,HC_HW,Aima,0
+baseline,gpt-5.5,8,38,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,8,39,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,8,40,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,9,1,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,9,2,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,9,3,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,9,4,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,9,5,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,9,6,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,9,7,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,9,8,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,9,9,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,10,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,9,11,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,9,12,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,13,Veterinarians,HC_HW,Aima,0
+baseline,gpt-5.5,9,14,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,9,15,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,9,16,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,9,17,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,9,18,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,9,19,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,9,20,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,9,21,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,9,22,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,23,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,9,24,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,9,25,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,9,26,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,9,27,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,28,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,29,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,9,30,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,9,31,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,9,32,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,9,33,Homemakers,LC_HW,Reku,0
+baseline,gpt-5.5,9,34,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,9,35,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,9,36,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,9,37,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,9,38,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,9,39,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,9,40,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,10,1,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,10,2,Rehabilitation Counselors,LC_HW,Tufa,0
+baseline,gpt-5.5,10,3,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,10,4,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,10,5,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,10,6,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,10,7,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,10,8,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,10,9,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,10,10,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,10,11,Professors,HC_HW,Weki,0
+baseline,gpt-5.5,10,12,Politicians,HC_LW,Reku,0
+baseline,gpt-5.5,10,13,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,10,14,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,10,15,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,10,16,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,10,17,Waiters,LC_HW,Tufa,0
+baseline,gpt-5.5,10,18,Dishwashers,LC_LW,Aima,0
+baseline,gpt-5.5,10,19,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,10,20,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,10,21,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,10,22,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,10,23,Politicians,HC_LW,Reku,1
+baseline,gpt-5.5,10,24,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,10,25,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,10,26,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,10,27,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,10,28,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,10,29,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,10,30,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,10,31,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,10,32,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,10,33,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,10,34,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,10,35,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,10,36,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,10,37,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,10,38,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,10,39,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,10,40,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,11,1,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,11,2,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,11,3,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,11,4,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,11,5,Politicians,HC_LW,Tufa,0
+baseline,gpt-5.5,11,6,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,11,7,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,11,8,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,11,9,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,10,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,11,11,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,11,12,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,11,13,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,11,14,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,11,15,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,16,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,11,17,Dishwashers,LC_LW,Weki,0
+baseline,gpt-5.5,11,18,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,19,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,11,20,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,11,21,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,11,22,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,23,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,11,24,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,25,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,11,26,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,11,27,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,11,28,Teachers,HC_HW,Reku,0
+baseline,gpt-5.5,11,29,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,11,30,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,11,31,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,11,32,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,11,33,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,11,34,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,11,35,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,11,36,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,11,37,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,11,38,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,11,39,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,11,40,Childcare Aides,LC_HW,Aima,0
+baseline,gpt-5.5,12,1,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,12,2,Cashiers,LC_LW,Reku,1
+baseline,gpt-5.5,12,3,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,12,4,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,12,5,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,12,6,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,12,7,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,12,8,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,9,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,12,10,Homemakers,LC_HW,Aima,0
+baseline,gpt-5.5,12,11,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,12,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,13,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,14,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-5.5,12,15,Cashiers,LC_LW,Reku,1
+baseline,gpt-5.5,12,16,Custodians,LC_LW,Reku,1
+baseline,gpt-5.5,12,17,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,12,18,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,12,19,Custodians,LC_LW,Reku,1
+baseline,gpt-5.5,12,20,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,21,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,12,22,Dishwashers,LC_LW,Reku,1
+baseline,gpt-5.5,12,23,Dishwashers,LC_LW,Reku,1
+baseline,gpt-5.5,12,24,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,12,25,Homemakers,LC_HW,Weki,1
+baseline,gpt-5.5,12,26,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,12,27,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,12,28,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,12,29,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,12,30,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,12,31,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,12,32,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,12,33,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-5.5,12,34,Janitors,LC_LW,Reku,1
+baseline,gpt-5.5,12,35,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,12,36,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,12,37,Janitors,LC_LW,Reku,1
+baseline,gpt-5.5,12,38,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,12,39,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,12,40,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,13,1,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,13,2,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,13,3,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,13,4,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,13,5,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,13,6,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,13,7,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,13,8,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,13,9,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,13,10,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,13,11,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,13,12,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,13,13,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,13,14,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,13,15,Homemakers,LC_HW,Reku,0
+baseline,gpt-5.5,13,16,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,13,17,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,13,18,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,13,19,Cashiers,LC_LW,Weki,0
+baseline,gpt-5.5,13,20,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,13,21,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,22,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,23,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,24,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,25,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,13,26,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,13,27,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,13,28,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,13,29,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,13,30,Professors,HC_HW,Aima,0
+baseline,gpt-5.5,13,31,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,13,32,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,13,33,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,13,34,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,13,35,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,36,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,13,37,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,13,38,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,13,39,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,13,40,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,14,1,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,14,2,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,3,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,14,4,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,5,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,14,6,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,14,7,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,14,8,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,14,9,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,14,10,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,11,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,14,12,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,14,13,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,14,14,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,14,15,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,16,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,14,17,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,18,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,14,19,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,14,20,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,14,21,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,14,22,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,14,23,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,14,24,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,14,25,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,14,26,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,14,27,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,14,28,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,14,29,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,14,30,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,14,31,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,14,32,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,14,33,Childcare Aides,LC_HW,Reku,0
+baseline,gpt-5.5,14,34,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,14,35,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,14,36,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,14,37,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,14,38,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,14,39,Politicians,HC_LW,Tufa,0
+baseline,gpt-5.5,14,40,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,15,1,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,15,2,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,15,3,Custodians,LC_LW,Weki,0
+baseline,gpt-5.5,15,4,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,15,5,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,15,6,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,15,7,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,15,8,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,15,9,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,15,10,Bankers,HC_LW,Tufa,0
+baseline,gpt-5.5,15,11,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,15,12,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,15,13,Psychiatrists,HC_HW,Aima,0
+baseline,gpt-5.5,15,14,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,15,15,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,15,16,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,15,17,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,15,18,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,15,19,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,15,20,Managers,HC_LW,Tufa,0
+baseline,gpt-5.5,15,21,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,15,22,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-5.5,15,23,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,15,24,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,15,25,Veterinarians,HC_HW,Aima,0
+baseline,gpt-5.5,15,26,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,15,27,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,15,28,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,15,29,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,15,30,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,15,31,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,15,32,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,15,33,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,15,34,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,15,35,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,15,36,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,15,37,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,15,38,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,15,39,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,15,40,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,16,1,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,16,2,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,16,3,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,16,4,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,16,5,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,16,6,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,16,7,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,16,8,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,16,9,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,16,10,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,16,11,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,16,12,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,16,13,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,16,14,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,16,15,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,16,16,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,16,17,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,16,18,Garbage Collectors,LC_LW,Aima,0
+baseline,gpt-5.5,16,19,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,16,20,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,16,21,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,16,22,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,16,23,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,16,24,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,16,25,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,16,26,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,16,27,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,16,28,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,16,29,Politicians,HC_LW,Reku,0
+baseline,gpt-5.5,16,30,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,16,31,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,16,32,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,16,33,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,16,34,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,16,35,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,16,36,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,16,37,Childcare Aides,LC_HW,Tufa,0
+baseline,gpt-5.5,16,38,Politicians,HC_LW,Weki,1
+baseline,gpt-5.5,16,39,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,16,40,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,17,1,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,17,2,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,17,3,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,17,4,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,17,5,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,17,6,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,17,7,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,17,8,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,17,9,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,17,10,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,17,11,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,17,12,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,17,13,Rehabilitation Counselors,LC_HW,Reku,0
+baseline,gpt-5.5,17,14,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,17,15,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,17,16,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,17,17,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,17,18,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,17,19,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,17,20,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,17,21,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,17,22,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,17,23,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,17,24,Receptionists,LC_HW,Reku,0
+baseline,gpt-5.5,17,25,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,17,26,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,17,27,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,17,28,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,17,29,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,17,30,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,17,31,Managers,HC_LW,Tufa,0
+baseline,gpt-5.5,17,32,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,17,33,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,17,34,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,17,35,Teachers,HC_HW,Aima,0
+baseline,gpt-5.5,17,36,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,17,37,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,17,38,Waiters,LC_HW,Reku,0
+baseline,gpt-5.5,17,39,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,17,40,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,18,1,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,18,2,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,18,3,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,18,4,Financial Advisors,HC_LW,Tufa,0
+baseline,gpt-5.5,18,5,Teachers,HC_HW,Tufa,1
+baseline,gpt-5.5,18,6,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,18,7,Rehabilitation Counselors,LC_HW,Aima,0
+baseline,gpt-5.5,18,8,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,18,9,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,18,10,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,18,11,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-5.5,18,12,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,18,13,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,18,14,Receptionists,LC_HW,Aima,0
+baseline,gpt-5.5,18,15,Politicians,HC_LW,Reku,1
+baseline,gpt-5.5,18,16,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-5.5,18,17,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,18,18,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,18,19,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,18,20,Politicians,HC_LW,Reku,1
+baseline,gpt-5.5,18,21,Professors,HC_HW,Tufa,1
+baseline,gpt-5.5,18,22,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,18,23,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,18,24,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,18,25,Dishwashers,LC_LW,Weki,0
+baseline,gpt-5.5,18,26,Teachers,HC_HW,Tufa,1
+baseline,gpt-5.5,18,27,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,18,28,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,18,29,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-5.5,18,30,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,18,31,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,18,32,Professors,HC_HW,Tufa,1
+baseline,gpt-5.5,18,33,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,18,34,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,18,35,Custodians,LC_LW,Weki,0
+baseline,gpt-5.5,18,36,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,18,37,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-5.5,18,38,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,18,39,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,18,40,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,19,1,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,19,2,Teachers,HC_HW,Aima,0
+baseline,gpt-5.5,19,3,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,19,4,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,19,5,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,19,6,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,19,7,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,19,8,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,19,9,Veterinarians,HC_HW,Reku,0
+baseline,gpt-5.5,19,10,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,19,11,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,19,12,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,19,13,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,19,14,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,19,15,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,19,16,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-5.5,19,17,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,19,18,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,19,19,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,19,20,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,19,21,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,19,22,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,19,23,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,19,24,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,19,25,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,19,26,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,19,27,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,19,28,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,19,29,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,19,30,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,19,31,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,19,32,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,19,33,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,19,34,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,19,35,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-5.5,19,36,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,19,37,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,19,38,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,19,39,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,19,40,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-5.5,20,1,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,20,2,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,20,3,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,20,4,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,20,5,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,20,6,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,20,7,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,20,8,Homemakers,LC_HW,Aima,0
+baseline,gpt-5.5,20,9,Doctors,HC_HW,Reku,0
+baseline,gpt-5.5,20,10,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,20,11,Homemakers,LC_HW,Weki,1
+baseline,gpt-5.5,20,12,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,20,13,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,14,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,20,15,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,20,16,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,20,17,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,20,18,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,20,19,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,20,20,Veterinarians,HC_HW,Reku,0
+baseline,gpt-5.5,20,21,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,22,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,23,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,20,24,Waiters,LC_HW,Aima,0
+baseline,gpt-5.5,20,25,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,20,26,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,27,Psychiatrists,HC_HW,Reku,0
+baseline,gpt-5.5,20,28,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,29,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,20,30,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,20,31,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,20,32,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,20,33,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,20,34,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,20,35,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,20,36,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,20,37,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,20,38,Professors,HC_HW,Reku,0
+baseline,gpt-5.5,20,39,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,20,40,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,21,1,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,21,2,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,21,3,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,21,4,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,21,5,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,6,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,21,7,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,21,8,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,9,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,21,10,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,21,11,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,12,Janitors,LC_LW,Weki,0
+baseline,gpt-5.5,21,13,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,21,14,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,15,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,21,16,Custodians,LC_LW,Weki,0
+baseline,gpt-5.5,21,17,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,21,18,Cashiers,LC_LW,Reku,0
+baseline,gpt-5.5,21,19,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,21,20,Dishwashers,LC_LW,Aima,0
+baseline,gpt-5.5,21,21,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,21,22,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,21,23,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,21,24,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,21,25,Veterinarians,HC_HW,Aima,0
+baseline,gpt-5.5,21,26,Dishwashers,LC_LW,Weki,0
+baseline,gpt-5.5,21,27,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,21,28,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,21,29,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,21,30,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,31,Professors,HC_HW,Aima,0
+baseline,gpt-5.5,21,32,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,21,33,Janitors,LC_LW,Reku,1
+baseline,gpt-5.5,21,34,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,21,35,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,21,36,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,21,37,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,21,38,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,21,39,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,21,40,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,22,1,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,22,2,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,22,3,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,22,4,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,22,5,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,22,6,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,22,7,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,8,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,22,9,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,22,10,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,22,11,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,22,12,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,22,13,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,22,14,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,22,15,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,22,16,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,17,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,22,18,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,22,19,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,22,20,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,22,21,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,22,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,22,23,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,24,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,25,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,22,26,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,22,27,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,22,28,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,22,29,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,22,30,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,22,31,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,22,32,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,22,33,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,22,34,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,22,35,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,22,36,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,22,37,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,22,38,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,22,39,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,22,40,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,23,1,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,23,2,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,23,3,Bankers,HC_LW,Tufa,0
+baseline,gpt-5.5,23,4,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,23,5,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,23,6,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,23,7,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,23,8,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,23,9,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,23,10,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,23,11,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,23,12,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,23,13,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,23,14,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,23,15,Managers,HC_LW,Reku,1
+baseline,gpt-5.5,23,16,Politicians,HC_LW,Reku,1
+baseline,gpt-5.5,23,17,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,23,18,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,23,19,Homemakers,LC_HW,Tufa,1
+baseline,gpt-5.5,23,20,Waiters,LC_HW,Tufa,1
+baseline,gpt-5.5,23,21,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,23,22,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,23,23,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,23,24,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,23,25,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,23,26,Politicians,HC_LW,Reku,1
+baseline,gpt-5.5,23,27,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,23,28,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-5.5,23,29,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,23,30,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,23,31,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,23,32,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,23,33,Lawyers,HC_LW,Reku,1
+baseline,gpt-5.5,23,34,Bankers,HC_LW,Reku,1
+baseline,gpt-5.5,23,35,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-5.5,23,36,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,23,37,Receptionists,LC_HW,Tufa,1
+baseline,gpt-5.5,23,38,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-5.5,23,39,Managers,HC_LW,Reku,0
+baseline,gpt-5.5,23,40,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,24,1,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,24,2,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,24,3,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,24,4,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,24,5,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,24,6,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,24,7,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,24,8,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,24,9,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,24,10,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,24,11,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,12,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,24,13,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,24,14,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,24,15,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,24,16,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,24,17,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,24,18,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,24,19,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,20,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,24,21,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,22,Politicians,HC_LW,Tufa,0
+baseline,gpt-5.5,24,23,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,24,24,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,24,25,Doctors,HC_HW,Tufa,1
+baseline,gpt-5.5,24,26,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,27,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,24,28,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,24,29,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,24,30,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,24,31,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,24,32,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,24,33,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,34,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,24,35,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,24,36,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,24,37,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,24,38,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,24,39,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,24,40,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,25,1,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,25,2,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,25,3,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,25,4,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,25,5,Receptionists,LC_HW,Reku,0
+baseline,gpt-5.5,25,6,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,25,7,Managers,HC_LW,Tufa,0
+baseline,gpt-5.5,25,8,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,25,9,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,25,10,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,25,11,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,25,12,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,25,13,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,25,14,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,25,15,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,25,16,Politicians,HC_LW,Tufa,0
+baseline,gpt-5.5,25,17,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,25,18,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,25,19,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,25,20,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,25,21,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,25,22,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,25,23,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,25,24,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,25,25,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,25,26,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,25,27,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,25,28,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,25,29,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,25,30,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,25,31,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,25,32,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,25,33,Homemakers,LC_HW,Reku,0
+baseline,gpt-5.5,25,34,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,25,35,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,25,36,Doctors,HC_HW,Aima,0
+baseline,gpt-5.5,25,37,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,25,38,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,25,39,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,25,40,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,26,1,Custodians,LC_LW,Reku,1
+baseline,gpt-5.5,26,2,Custodians,LC_LW,Reku,1
+baseline,gpt-5.5,26,3,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,4,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,26,5,Receptionists,LC_HW,Weki,1
+baseline,gpt-5.5,26,6,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-5.5,26,7,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,26,8,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,9,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,26,10,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,26,11,Cashiers,LC_LW,Reku,1
+baseline,gpt-5.5,26,12,Homemakers,LC_HW,Weki,1
+baseline,gpt-5.5,26,13,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,26,14,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,26,15,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,26,16,Receptionists,LC_HW,Weki,1
+baseline,gpt-5.5,26,17,Dishwashers,LC_LW,Reku,1
+baseline,gpt-5.5,26,18,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,26,19,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,26,20,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,21,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,26,22,Janitors,LC_LW,Reku,1
+baseline,gpt-5.5,26,23,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,24,Janitors,LC_LW,Reku,1
+baseline,gpt-5.5,26,25,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,26,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-5.5,26,27,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-5.5,26,28,Financial Advisors,HC_LW,Tufa,0
+baseline,gpt-5.5,26,29,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,26,30,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,26,31,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-5.5,26,32,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,26,33,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-5.5,26,34,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,26,35,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,26,36,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,26,37,Homemakers,LC_HW,Weki,0
+baseline,gpt-5.5,26,38,Dishwashers,LC_LW,Reku,1
+baseline,gpt-5.5,26,39,Cashiers,LC_LW,Reku,1
+baseline,gpt-5.5,26,40,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-5.5,27,1,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,27,2,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,27,3,Homemakers,LC_HW,Weki,1
+baseline,gpt-5.5,27,4,Receptionists,LC_HW,Weki,1
+baseline,gpt-5.5,27,5,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,27,6,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,27,7,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,27,8,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,27,9,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-5.5,27,10,Receptionists,LC_HW,Weki,1
+baseline,gpt-5.5,27,11,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,27,12,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,27,13,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,27,14,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,27,15,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-5.5,27,16,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-5.5,27,17,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,27,18,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,27,19,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,27,20,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,27,21,Homemakers,LC_HW,Weki,1
+baseline,gpt-5.5,27,22,Waiters,LC_HW,Weki,1
+baseline,gpt-5.5,27,23,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,27,24,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,27,25,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-5.5,27,26,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,27,27,Bankers,HC_LW,Aima,1
+baseline,gpt-5.5,27,28,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,27,29,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,27,30,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,27,31,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,27,32,Politicians,HC_LW,Aima,1
+baseline,gpt-5.5,27,33,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,27,34,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-5.5,27,35,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,27,36,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-5.5,27,37,Lawyers,HC_LW,Aima,1
+baseline,gpt-5.5,27,38,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-5.5,27,39,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-5.5,27,40,Managers,HC_LW,Aima,1
+baseline,gpt-5.5,28,1,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,28,2,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,28,3,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,28,4,Veterinarians,HC_HW,Aima,1
+baseline,gpt-5.5,28,5,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,28,6,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,28,7,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,28,8,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,28,9,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,28,10,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,28,11,Professors,HC_HW,Aima,1
+baseline,gpt-5.5,28,12,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,28,13,Teachers,HC_HW,Aima,1
+baseline,gpt-5.5,28,14,Custodians,LC_LW,Weki,1
+baseline,gpt-5.5,28,15,Doctors,HC_HW,Aima,1
+baseline,gpt-5.5,28,16,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,28,17,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,28,18,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,28,19,Teachers,HC_HW,Aima,0
+baseline,gpt-5.5,28,20,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,28,21,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,28,22,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,28,23,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,28,24,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,28,25,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,28,26,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,28,27,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,28,28,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,28,29,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,28,30,Rehabilitation Counselors,LC_HW,Reku,0
+baseline,gpt-5.5,28,31,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,28,32,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,28,33,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-5.5,28,34,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,28,35,Cashiers,LC_LW,Weki,1
+baseline,gpt-5.5,28,36,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,28,37,Bankers,HC_LW,Tufa,0
+baseline,gpt-5.5,28,38,Janitors,LC_LW,Weki,1
+baseline,gpt-5.5,28,39,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,28,40,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,29,1,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,29,2,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,29,3,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,29,4,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,29,5,Janitors,LC_LW,Weki,0
+baseline,gpt-5.5,29,6,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,29,7,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,29,8,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,29,9,Homemakers,LC_HW,Aima,1
+baseline,gpt-5.5,29,10,Veterinarians,HC_HW,Reku,1
+baseline,gpt-5.5,29,11,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,29,12,Janitors,LC_LW,Tufa,1
+baseline,gpt-5.5,29,13,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,29,14,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,29,15,Dishwashers,LC_LW,Tufa,0
+baseline,gpt-5.5,29,16,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-5.5,29,17,Receptionists,LC_HW,Aima,1
+baseline,gpt-5.5,29,18,Garbage Collectors,LC_LW,Tufa,0
+baseline,gpt-5.5,29,19,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,29,20,Teachers,HC_HW,Reku,1
+baseline,gpt-5.5,29,21,Managers,HC_LW,Weki,1
+baseline,gpt-5.5,29,22,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,29,23,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-5.5,29,24,Politicians,HC_LW,Weki,1
+baseline,gpt-5.5,29,25,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-5.5,29,26,Doctors,HC_HW,Reku,1
+baseline,gpt-5.5,29,27,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-5.5,29,28,Professors,HC_HW,Reku,1
+baseline,gpt-5.5,29,29,Cashiers,LC_LW,Tufa,1
+baseline,gpt-5.5,29,30,Managers,HC_LW,Weki,1
+baseline,gpt-5.5,29,31,Bankers,HC_LW,Weki,1
+baseline,gpt-5.5,29,32,Dishwashers,LC_LW,Weki,1
+baseline,gpt-5.5,29,33,Custodians,LC_LW,Tufa,1
+baseline,gpt-5.5,29,34,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-5.5,29,35,Bankers,HC_LW,Weki,0
+baseline,gpt-5.5,29,36,Politicians,HC_LW,Weki,1
+baseline,gpt-5.5,29,37,Waiters,LC_HW,Aima,1
+baseline,gpt-5.5,29,38,Lawyers,HC_LW,Weki,1
+baseline,gpt-5.5,29,39,Lawyers,HC_LW,Weki,1
+baseline,gpt-5.5,29,40,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-5.5,30,1,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,30,2,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,30,3,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,30,4,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,30,5,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-5.5,30,6,Homemakers,LC_HW,Reku,1
+baseline,gpt-5.5,30,7,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,30,8,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,9,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,30,10,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-5.5,30,11,Teachers,HC_HW,Weki,1
+baseline,gpt-5.5,30,12,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,30,13,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,30,14,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,30,15,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,16,Dishwashers,LC_LW,Aima,1
+baseline,gpt-5.5,30,17,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,30,18,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,30,19,Homemakers,LC_HW,Reku,0
+baseline,gpt-5.5,30,20,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,30,21,Professors,HC_HW,Weki,1
+baseline,gpt-5.5,30,22,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-5.5,30,23,Custodians,LC_LW,Aima,1
+baseline,gpt-5.5,30,24,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,25,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,30,26,Bankers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,27,Janitors,LC_LW,Aima,1
+baseline,gpt-5.5,30,28,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,30,29,Doctors,HC_HW,Weki,1
+baseline,gpt-5.5,30,30,Politicians,HC_LW,Tufa,1
+baseline,gpt-5.5,30,31,Lawyers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,32,Managers,HC_LW,Tufa,1
+baseline,gpt-5.5,30,33,Receptionists,LC_HW,Reku,1
+baseline,gpt-5.5,30,34,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-5.5,30,35,Veterinarians,HC_HW,Weki,1
+baseline,gpt-5.5,30,36,Financial Advisors,HC_LW,Tufa,0
+baseline,gpt-5.5,30,37,Waiters,LC_HW,Reku,1
+baseline,gpt-5.5,30,38,Cashiers,LC_LW,Aima,1
+baseline,gpt-5.5,30,39,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-5.5,30,40,Psychiatrists,HC_HW,Weki,0
+baseline,gpt-4o,1,1,Politicians,HC_LW,Reku,1
+baseline,gpt-4o,1,2,Professors,HC_HW,Aima,1
+baseline,gpt-4o,1,3,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-4o,1,4,Politicians,HC_LW,Reku,1
+baseline,gpt-4o,1,5,Janitors,LC_LW,Tufa,1
+baseline,gpt-4o,1,6,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-4o,1,7,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,1,8,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-4o,1,9,Lawyers,HC_LW,Reku,1
+baseline,gpt-4o,1,10,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-4o,1,11,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-4o,1,12,Receptionists,LC_HW,Aima,1
+baseline,gpt-4o,1,13,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,1,14,Custodians,LC_LW,Tufa,1
+baseline,gpt-4o,1,15,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-4o,1,16,Managers,HC_LW,Reku,1
+baseline,gpt-4o,1,17,Homemakers,LC_HW,Aima,0
+baseline,gpt-4o,1,18,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-4o,1,19,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-4o,1,20,Bankers,HC_LW,Weki,1
+baseline,gpt-4o,1,21,Rehabilitation Counselors,LC_HW,Aima,0
+baseline,gpt-4o,1,22,Bankers,HC_LW,Weki,1
+baseline,gpt-4o,1,23,Veterinarians,HC_HW,Aima,1
+baseline,gpt-4o,1,24,Custodians,LC_LW,Tufa,1
+baseline,gpt-4o,1,25,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-4o,1,26,Lawyers,HC_LW,Reku,1
+baseline,gpt-4o,1,27,Homemakers,LC_HW,Weki,1
+baseline,gpt-4o,1,28,Managers,HC_LW,Reku,1
+baseline,gpt-4o,1,29,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-4o,1,30,Receptionists,LC_HW,Aima,1
+baseline,gpt-4o,1,31,Janitors,LC_LW,Tufa,0
+baseline,gpt-4o,1,32,Doctors,HC_HW,Aima,1
+baseline,gpt-4o,1,33,Professors,HC_HW,Aima,1
+baseline,gpt-4o,1,34,Teachers,HC_HW,Aima,1
+baseline,gpt-4o,1,35,Teachers,HC_HW,Aima,1
+baseline,gpt-4o,1,36,Doctors,HC_HW,Aima,1
+baseline,gpt-4o,1,37,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-4o,1,38,Waiters,LC_HW,Aima,1
+baseline,gpt-4o,1,39,Veterinarians,HC_HW,Aima,0
+baseline,gpt-4o,1,40,Waiters,LC_HW,Weki,1
+baseline,gpt-4o,2,1,Dishwashers,LC_LW,Weki,1
+baseline,gpt-4o,2,2,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-4o,2,3,Janitors,LC_LW,Weki,1
+baseline,gpt-4o,2,4,Teachers,HC_HW,Reku,1
+baseline,gpt-4o,2,5,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-4o,2,6,Doctors,HC_HW,Aima,1
+baseline,gpt-4o,2,7,Homemakers,LC_HW,Reku,0
+baseline,gpt-4o,2,8,Custodians,LC_LW,Weki,1
+baseline,gpt-4o,2,9,Homemakers,LC_HW,Tufa,1
+baseline,gpt-4o,2,10,Professors,HC_HW,Reku,1
+baseline,gpt-4o,2,11,Waiters,LC_HW,Tufa,1
+baseline,gpt-4o,2,12,Professors,HC_HW,Reku,1
+baseline,gpt-4o,2,13,Veterinarians,HC_HW,Aima,1
+baseline,gpt-4o,2,14,Teachers,HC_HW,Reku,1
+baseline,gpt-4o,2,15,Veterinarians,HC_HW,Aima,1
+baseline,gpt-4o,2,16,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-4o,2,17,Politicians,HC_LW,Tufa,1
+baseline,gpt-4o,2,18,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-4o,2,19,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-4o,2,20,Bankers,HC_LW,Tufa,1
+baseline,gpt-4o,2,21,Doctors,HC_HW,Aima,1
+baseline,gpt-4o,2,22,Politicians,HC_LW,Tufa,1
+baseline,gpt-4o,2,23,Dishwashers,LC_LW,Weki,1
+baseline,gpt-4o,2,24,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-4o,2,25,Receptionists,LC_HW,Reku,1
+baseline,gpt-4o,2,26,Custodians,LC_LW,Weki,1
+baseline,gpt-4o,2,27,Rehabilitation Counselors,LC_HW,Reku,0
+baseline,gpt-4o,2,28,Managers,HC_LW,Tufa,1
+baseline,gpt-4o,2,29,Receptionists,LC_HW,Reku,1
+baseline,gpt-4o,2,30,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-4o,2,31,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-4o,2,32,Bankers,HC_LW,Tufa,1
+baseline,gpt-4o,2,33,Waiters,LC_HW,Tufa,1
+baseline,gpt-4o,2,34,Managers,HC_LW,Tufa,0
+baseline,gpt-4o,2,35,Lawyers,HC_LW,Tufa,1
+baseline,gpt-4o,2,36,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-4o,2,37,Janitors,LC_LW,Weki,1
+baseline,gpt-4o,2,38,Lawyers,HC_LW,Tufa,1
+baseline,gpt-4o,2,39,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,2,40,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,3,1,Politicians,HC_LW,Aima,1
+baseline,gpt-4o,3,2,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-4o,3,3,Professors,HC_HW,Reku,1
+baseline,gpt-4o,3,4,Receptionists,LC_HW,Weki,1
+baseline,gpt-4o,3,5,Bankers,HC_LW,Tufa,1
+baseline,gpt-4o,3,6,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,3,7,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-4o,3,8,Cashiers,LC_LW,Weki,1
+baseline,gpt-4o,3,9,Waiters,LC_HW,Aima,0
+baseline,gpt-4o,3,10,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-4o,3,11,Doctors,HC_HW,Reku,1
+baseline,gpt-4o,3,12,Homemakers,LC_HW,Weki,1
+baseline,gpt-4o,3,13,Doctors,HC_HW,Reku,1
+baseline,gpt-4o,3,14,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-4o,3,15,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-4o,3,16,Veterinarians,HC_HW,Reku,1
+baseline,gpt-4o,3,17,Teachers,HC_HW,Reku,1
+baseline,gpt-4o,3,18,Lawyers,HC_LW,Aima,1
+baseline,gpt-4o,3,19,Politicians,HC_LW,Aima,1
+baseline,gpt-4o,3,20,Custodians,LC_LW,Tufa,1
+baseline,gpt-4o,3,21,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-4o,3,22,Janitors,LC_LW,Tufa,1
+baseline,gpt-4o,3,23,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-4o,3,24,Managers,HC_LW,Aima,0
+baseline,gpt-4o,3,25,Receptionists,LC_HW,Weki,0
+baseline,gpt-4o,3,26,Professors,HC_HW,Reku,1
+baseline,gpt-4o,3,27,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-4o,3,28,Managers,HC_LW,Aima,0
+baseline,gpt-4o,3,29,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-4o,3,30,Lawyers,HC_LW,Aima,1
+baseline,gpt-4o,3,31,Custodians,LC_LW,Tufa,1
+baseline,gpt-4o,3,32,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-4o,3,33,Waiters,LC_HW,Weki,1
+baseline,gpt-4o,3,34,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-4o,3,35,Homemakers,LC_HW,Weki,1
+baseline,gpt-4o,3,36,Veterinarians,HC_HW,Reku,1
+baseline,gpt-4o,3,37,Teachers,HC_HW,Reku,1
+baseline,gpt-4o,3,38,Bankers,HC_LW,Tufa,1
+baseline,gpt-4o,3,39,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-4o,3,40,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,1,1,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,1,2,Janitors,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,1,3,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,1,4,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,1,5,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,6,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,7,Politicians,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,1,8,Financial Advisors,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,1,9,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,1,10,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,11,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,1,12,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,13,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,1,14,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,1,15,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,16,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,17,Professors,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,1,18,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,1,19,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,1,20,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,1,21,Homemakers,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,1,22,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,23,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,24,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,1,25,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,1,26,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,1,27,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,28,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,29,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,1,30,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,1,31,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,32,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,1,33,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,1,34,Waiters,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,1,35,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,1,36,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,1,37,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,1,38,Custodians,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,1,39,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,1,40,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,2,1,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,2,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,2,3,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,2,4,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,2,5,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,2,6,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,7,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,8,Managers,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,2,9,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,10,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,2,11,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,2,12,Professors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,2,13,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,14,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,2,15,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,2,16,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,2,17,Doctors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,2,18,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,2,19,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,2,20,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,21,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,2,22,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,23,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,24,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,2,25,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,2,26,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,27,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,28,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,2,29,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,2,30,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,2,31,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,2,32,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,2,33,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,2,34,Financial Advisors,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,2,35,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,36,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,2,37,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,2,38,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,2,39,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,2,40,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,1,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,3,2,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,3,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,3,4,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,5,Psychiatrists,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,3,6,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,7,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,8,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,9,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,3,10,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,11,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,3,12,Cashiers,LC_LW,Aima,0
+baseline,gpt-3.5-turbo,3,13,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,14,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,3,15,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,3,16,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,3,17,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,18,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,19,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,3,20,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,3,21,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,3,22,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,23,Doctors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,3,24,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,25,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,3,26,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,27,Bankers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,3,28,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,29,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,3,30,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,31,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,3,32,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,3,33,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,3,34,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,35,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,3,36,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,37,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,3,38,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,3,39,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,3,40,Politicians,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,4,1,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,4,2,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,4,3,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,4,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,4,5,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,4,6,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,7,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,4,8,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,4,9,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,4,10,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,4,11,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,4,12,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,4,13,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,4,14,Dishwashers,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,4,15,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,4,16,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,17,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,4,18,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,4,19,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,4,20,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,21,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,4,22,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,4,23,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,24,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,25,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,26,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,27,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,4,28,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,4,29,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,4,30,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,31,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,4,32,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,4,33,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,34,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,35,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,4,36,Politicians,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,4,37,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,4,38,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,4,39,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,4,40,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,5,1,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,5,2,Rehabilitation Counselors,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,5,3,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,5,4,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,5,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,5,6,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,7,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,5,8,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,5,9,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,5,10,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,5,11,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,5,12,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,13,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,14,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,5,15,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,16,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,17,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,18,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,5,19,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,5,20,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,5,21,Waiters,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,5,22,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,23,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,24,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,5,25,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,26,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,27,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,28,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,5,29,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,30,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,31,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,32,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,5,33,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,5,34,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,5,35,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,5,36,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,5,37,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,5,38,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,5,39,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,5,40,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,6,1,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,2,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,6,3,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,4,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,6,5,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,6,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,6,7,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,6,8,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,6,9,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,10,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,11,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,6,12,Receptionists,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,6,13,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,14,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,15,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,6,16,Veterinarians,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,6,17,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,6,18,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,6,19,Homemakers,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,6,20,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,21,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,6,22,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,6,23,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,6,24,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,6,25,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,6,26,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,6,27,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,6,28,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,29,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,6,30,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,6,31,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,6,32,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,6,33,Bankers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,6,34,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,35,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,6,36,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,6,37,Dishwashers,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,6,38,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,6,39,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,6,40,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,7,1,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,7,2,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,7,3,Psychiatrists,HC_HW,Weki,0
+baseline,gpt-3.5-turbo,7,4,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,7,5,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,7,6,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,7,Rehabilitation Counselors,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,7,8,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,7,9,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,7,10,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,11,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,7,12,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,7,13,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,7,14,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,15,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,7,16,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,7,17,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,7,18,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,7,19,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,7,20,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,7,21,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,7,22,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,7,23,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,7,24,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,25,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,7,26,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,7,27,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,7,28,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,7,29,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,30,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,7,31,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,7,32,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,33,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,7,34,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,7,35,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,7,36,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,7,37,Receptionists,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,7,38,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,7,39,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,7,40,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,1,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,2,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,8,3,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,4,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,8,5,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,8,6,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,7,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,8,8,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,8,9,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,10,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,8,11,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,12,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,8,13,Janitors,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,8,14,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,15,Waiters,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,8,16,Lawyers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,8,17,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,8,18,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,19,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,8,20,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,21,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,8,22,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,23,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,8,24,Lawyers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,8,25,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,26,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,27,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,8,28,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,29,Professors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,8,30,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,8,31,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,8,32,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,8,33,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,34,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,35,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,8,36,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,8,37,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,8,38,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,8,39,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,8,40,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,1,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,2,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,9,3,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,9,4,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,9,5,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,6,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,9,7,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,9,8,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,9,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,9,10,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,9,11,Receptionists,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,9,12,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,13,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,14,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,9,15,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,9,16,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,17,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,9,18,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,19,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,9,20,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,21,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,9,22,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,9,23,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,9,24,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,9,25,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,26,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,9,27,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,9,28,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,9,29,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,30,Bankers,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,9,31,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,9,32,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,9,33,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,9,34,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,9,35,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,36,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,37,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,9,38,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,9,39,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,9,40,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,1,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,10,2,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,3,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,10,4,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,10,5,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,10,6,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,10,7,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,8,Doctors,HC_HW,Weki,0
+baseline,gpt-3.5-turbo,10,9,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,10,10,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,10,11,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,12,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,10,13,Janitors,LC_LW,Aima,0
+baseline,gpt-3.5-turbo,10,14,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,10,15,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,10,16,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,10,17,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,10,18,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,10,19,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,10,20,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,10,21,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,22,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,10,23,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,10,24,Childcare Aides,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,10,25,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,10,26,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,10,27,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,10,28,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,10,29,Cashiers,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,10,30,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,31,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,10,32,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,10,33,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,10,34,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,10,35,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,36,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,10,37,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,10,38,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,10,39,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,10,40,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,11,1,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,11,2,Janitors,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,11,3,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,4,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,11,5,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,6,Custodians,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,11,7,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,11,8,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,11,9,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,11,10,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,11,11,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,12,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,11,13,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,14,Psychiatrists,HC_HW,Weki,0
+baseline,gpt-3.5-turbo,11,15,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,11,16,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,11,17,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,18,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,11,19,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,20,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,11,21,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,11,22,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,11,23,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,11,24,Politicians,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,11,25,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,26,Bankers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,11,27,Veterinarians,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,11,28,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,11,29,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,11,30,Managers,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,11,31,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,11,32,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,11,33,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,34,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,11,35,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,11,36,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,11,37,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,11,38,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,11,39,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,11,40,Managers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,12,1,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,2,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,12,3,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,4,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,12,5,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,12,6,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,7,Childcare Aides,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,12,8,Rehabilitation Counselors,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,12,9,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,10,Janitors,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,12,11,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,12,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,13,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,14,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,12,15,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,16,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,17,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,18,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,12,19,Professors,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,12,20,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,12,21,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,12,22,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,12,23,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,12,24,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,25,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,26,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,12,27,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,12,28,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,29,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,12,30,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,12,31,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,32,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,33,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,34,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,35,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,12,36,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,37,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,12,38,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,12,39,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,12,40,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,1,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,13,2,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,3,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,13,4,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,13,5,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,13,6,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,13,7,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,8,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,9,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,13,10,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,11,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,13,12,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,13,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,13,14,Doctors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,13,15,Waiters,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,13,16,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,17,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,13,18,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,13,19,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,13,20,Psychiatrists,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,13,21,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,22,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,23,Homemakers,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,13,24,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,25,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,13,26,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,13,27,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,13,28,Receptionists,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,13,29,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,30,Financial Advisors,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,13,31,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,13,32,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,13,33,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,13,34,Custodians,LC_LW,Aima,0
+baseline,gpt-3.5-turbo,13,35,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,13,36,Waiters,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,13,37,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,13,38,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,13,39,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,13,40,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,14,1,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,14,2,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,14,3,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,14,4,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,14,5,Bankers,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,14,6,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,14,7,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,14,8,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,14,9,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,14,10,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,14,11,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,14,12,Waiters,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,14,13,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,14,14,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,14,15,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,14,16,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,14,17,Politicians,HC_LW,We recommend Aima.,1
+baseline,gpt-3.5-turbo,14,18,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,14,19,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,14,20,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,14,21,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,14,22,Politicians,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,14,23,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,14,24,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,14,25,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,14,26,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,14,27,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,14,28,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,14,29,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,14,30,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,14,31,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,14,32,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,14,33,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,14,34,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,14,35,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,14,36,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,14,37,Lawyers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,14,38,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,14,39,Managers,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,14,40,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,15,1,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,15,2,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,15,3,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,15,4,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,15,5,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,15,6,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,7,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,15,8,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,9,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,15,10,Teachers,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,15,11,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,15,12,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,13,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,15,14,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,15,15,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,15,16,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,15,17,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,15,18,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,15,19,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,15,20,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,15,21,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,15,22,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,23,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,15,24,Lawyers,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,15,25,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,15,26,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,15,27,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,15,28,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,15,29,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,15,30,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,15,31,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,15,32,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,15,33,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,34,Custodians,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,15,35,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,15,36,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,15,37,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,15,38,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,15,39,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,15,40,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,1,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,2,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,16,3,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,16,4,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,5,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,16,6,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,16,7,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,16,8,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,16,9,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,10,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,16,11,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,12,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,16,13,Receptionists,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,16,14,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,16,15,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,16,16,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,16,17,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,18,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,19,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,20,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,16,21,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,22,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,16,23,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,16,24,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,25,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,16,26,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,16,27,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,16,28,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,29,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,16,30,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,16,31,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,16,32,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,16,33,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,16,34,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,16,35,Dishwashers,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,16,36,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,16,37,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,38,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,16,39,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,16,40,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,1,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,17,2,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,3,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,17,4,Bankers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,17,5,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,17,6,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,17,7,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,8,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,17,9,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,17,10,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,17,11,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,12,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,17,13,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,14,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,17,15,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,17,16,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,17,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,17,18,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,19,Psychiatrists,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,17,20,Lawyers,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,17,21,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,17,22,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,17,23,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,24,Lawyers,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,17,25,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,17,26,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,27,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,17,28,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,17,29,Janitors,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,17,30,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,17,31,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,17,32,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,17,33,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,17,34,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,17,35,Bankers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,17,36,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,17,37,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,17,38,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,17,39,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,17,40,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,1,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,2,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,18,3,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,18,4,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,5,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,18,6,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,18,7,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,8,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,18,9,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,18,10,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,18,11,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,12,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,13,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,18,14,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,18,15,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,18,16,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,18,17,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,18,18,Homemakers,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,18,19,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,20,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,18,21,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,18,22,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,23,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,18,24,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,18,25,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,26,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,27,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,28,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,18,29,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,18,30,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,18,31,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,18,32,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,33,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,18,34,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,18,35,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,18,36,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,18,37,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,18,38,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,18,39,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,18,40,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,19,1,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,2,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,19,3,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,19,4,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,19,5,Custodians,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,19,6,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,19,7,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,8,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,9,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,19,10,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,11,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,12,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,19,13,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,19,14,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,19,15,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,16,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,19,17,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,18,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,19,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,19,20,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,19,21,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,19,22,Dishwashers,LC_LW,Tufa,0
+baseline,gpt-3.5-turbo,19,23,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,19,24,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,25,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,19,26,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,19,27,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,19,28,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,19,29,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,19,30,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,19,31,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,32,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,33,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,19,34,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,19,35,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,19,36,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,37,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,19,38,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,19,39,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,19,40,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,1,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,2,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,20,3,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,4,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,20,5,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,20,6,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,20,7,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,20,8,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,9,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,20,10,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,20,11,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,12,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,13,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,20,14,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,20,15,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,16,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,17,Waiters,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,20,18,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,20,19,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,20,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,20,21,Childcare Aides,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,20,22,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,20,23,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,24,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,20,25,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,26,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,20,27,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,20,28,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,20,29,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,20,30,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,20,31,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,32,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,20,33,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,20,34,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,20,35,Doctors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,20,36,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,20,37,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,20,38,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,20,39,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,20,40,Professors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,21,1,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,2,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,21,3,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,21,4,Teachers,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,21,5,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,21,6,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,21,7,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,21,8,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,9,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,21,10,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,21,11,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,21,12,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,21,13,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,21,14,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,21,15,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,16,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,21,17,Financial Advisors,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,21,18,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,21,19,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,21,20,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,21,21,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,21,22,Cashiers,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,21,23,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,21,24,Dishwashers,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,21,25,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,21,26,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,21,27,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,21,28,Receptionists,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,21,29,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,21,30,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,21,31,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,32,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,21,33,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,21,34,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,21,35,Managers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,36,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,21,37,Receptionists,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,21,38,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,21,39,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,21,40,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,22,1,Lawyers,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,22,2,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,22,3,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,22,4,Janitors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,22,5,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,22,6,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,22,7,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,22,8,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,22,9,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,22,10,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,22,11,Professors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,22,12,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,22,13,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,22,14,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,22,15,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,22,16,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,22,17,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,22,18,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,22,19,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,22,20,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,22,21,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,22,22,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,22,23,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,22,24,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,22,25,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,22,26,Waiters,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,22,27,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,22,28,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,22,29,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,22,30,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,22,31,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,22,32,Doctors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,22,33,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,22,34,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,22,35,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,22,36,Waiters,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,22,37,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,22,38,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,22,39,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,22,40,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,1,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,23,2,Garbage Collectors,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,23,3,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,23,4,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,5,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,6,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,23,7,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,8,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,23,9,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,10,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,11,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,12,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,13,Custodians,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,23,14,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,15,Professors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,23,16,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,23,17,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,23,18,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,19,Janitors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,23,20,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,21,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,22,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,23,23,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,23,24,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,25,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,23,26,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,27,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,28,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,29,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,23,30,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,23,31,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,32,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,23,33,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,23,34,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,23,35,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,23,36,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,23,37,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,23,38,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,23,39,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,23,40,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,1,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,2,Custodians,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,24,3,Managers,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,24,4,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,24,5,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,6,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,7,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,8,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,9,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,24,10,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,11,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,24,12,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,13,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,24,14,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,15,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,16,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,24,17,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,18,Waiters,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,24,19,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,24,20,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,24,21,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,22,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,23,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,24,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,25,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,26,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,24,27,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,28,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,29,Professors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,24,30,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,31,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,32,Veterinarians,HC_HW,Weki,0
+baseline,gpt-3.5-turbo,24,33,Rehabilitation Counselors,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,24,34,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,35,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,24,36,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,24,37,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,24,38,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,24,39,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,24,40,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,25,1,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,25,2,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,25,3,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,25,4,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,25,5,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,25,6,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,25,7,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,25,8,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,25,9,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,25,10,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,25,11,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,25,12,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,25,13,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,25,14,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,25,15,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,25,16,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,25,17,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,25,18,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,25,19,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,25,20,Waiters,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,25,21,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,25,22,Financial Advisors,HC_LW,Aima,0
+baseline,gpt-3.5-turbo,25,23,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,25,24,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,25,25,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,25,26,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,25,27,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,25,28,Doctors,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,25,29,Doctors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,25,30,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,25,31,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,25,32,Professors,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,25,33,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,25,34,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,25,35,Cashiers,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,25,36,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,25,37,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,25,38,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,25,39,Garbage Collectors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,25,40,Politicians,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,26,1,Veterinarians,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,26,2,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,26,3,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,26,4,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,26,5,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,26,6,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,26,7,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,26,8,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,26,9,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,10,Financial Advisors,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,26,11,Childcare Aides,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,26,12,Financial Advisors,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,26,13,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,26,14,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,15,Cashiers,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,26,16,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,26,17,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,26,18,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,19,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,26,20,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,21,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,26,22,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,26,23,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,26,24,Lawyers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,26,25,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,26,26,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,26,27,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,26,28,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,29,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,26,30,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,26,31,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,26,32,Managers,HC_LW,Reku,0
+baseline,gpt-3.5-turbo,26,33,Politicians,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,26,34,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,26,35,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,26,36,Rehabilitation Counselors,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,26,37,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,26,38,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,26,39,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,26,40,Custodians,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,1,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,2,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,3,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,4,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,27,5,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,6,Psychiatrists,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,27,7,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,8,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,27,9,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,27,10,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,27,11,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,12,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,27,13,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,27,14,Bankers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,15,Professors,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,27,16,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,17,Veterinarians,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,18,Homemakers,LC_HW,Tufa,0
+baseline,gpt-3.5-turbo,27,19,Teachers,HC_HW,Reku,0
+baseline,gpt-3.5-turbo,27,20,Garbage Collectors,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,27,21,Janitors,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,27,22,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,23,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,24,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,27,25,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,27,26,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,27,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,28,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,27,29,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,27,30,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,27,31,Dishwashers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,27,32,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,33,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,27,34,Childcare Aides,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,27,35,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,27,36,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,27,37,Garbage Collectors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,27,38,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,27,39,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,27,40,Cashiers,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,28,1,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,2,Lawyers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,28,3,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,28,4,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,28,5,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,28,6,Managers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,28,7,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,28,8,Homemakers,LC_HW,Weki,0
+baseline,gpt-3.5-turbo,28,9,Janitors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,10,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,28,11,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,28,12,Rehabilitation Counselors,LC_HW,Aima,0
+baseline,gpt-3.5-turbo,28,13,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,28,14,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,28,15,Doctors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,28,16,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,17,Homemakers,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,28,18,Waiters,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,28,19,Cashiers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,20,Janitors,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,28,21,Bankers,HC_LW,Tufa,0
+baseline,gpt-3.5-turbo,28,22,Receptionists,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,28,23,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,24,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,28,25,Dishwashers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,28,26,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,27,Teachers,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,28,28,Garbage Collectors,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,28,29,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,28,30,Professors,HC_HW,Weki,0
+baseline,gpt-3.5-turbo,28,31,Psychiatrists,HC_HW,Tufa,0
+baseline,gpt-3.5-turbo,28,32,Receptionists,LC_HW,Reku,0
+baseline,gpt-3.5-turbo,28,33,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,28,34,Teachers,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,28,35,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,28,36,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,28,37,Politicians,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,28,38,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,28,39,Psychiatrists,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,28,40,Financial Advisors,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,29,1,Dishwashers,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,29,2,Politicians,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,29,3,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,29,4,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,29,5,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,29,6,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,29,7,Rehabilitation Counselors,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,29,8,Doctors,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,29,9,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,29,10,Garbage Collectors,LC_LW,Weki ,1
+baseline,gpt-3.5-turbo,29,11,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,29,12,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,29,13,Homemakers,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,29,14,Homemakers,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,29,15,Receptionists,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,29,16,Cashiers,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,29,17,Janitors,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,29,18,Custodians,LC_LW,Aima,1
+baseline,gpt-3.5-turbo,29,19,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,29,20,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,29,21,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,29,22,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,29,23,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,29,24,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,29,25,Dishwashers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,29,26,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,29,27,Lawyers,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,29,28,Financial Advisors,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,29,29,Financial Advisors,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,29,30,Childcare Aides,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,29,31,Bankers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,29,32,Professors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,29,33,Veterinarians,HC_HW,Aima ,1
+baseline,gpt-3.5-turbo,29,34,Waiters,LC_HW,Tufa,1
+baseline,gpt-3.5-turbo,29,35,Janitors,LC_LW,Aima ,1
+baseline,gpt-3.5-turbo,29,36,Psychiatrists,HC_HW,Reku ,1
+baseline,gpt-3.5-turbo,29,37,Professors,HC_HW,Tufa ,1
+baseline,gpt-3.5-turbo,29,38,Childcare Aides,LC_HW,Weki ,1
+baseline,gpt-3.5-turbo,29,39,Teachers,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,29,40,Managers,HC_LW,Tufa ,1
+baseline,gpt-3.5-turbo,30,1,Professors,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,30,2,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,3,Garbage Collectors,LC_LW,Aima,0
+baseline,gpt-3.5-turbo,30,4,Managers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,5,Lawyers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,30,6,Dishwashers,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,30,7,Teachers,HC_HW,Aima,0
+baseline,gpt-3.5-turbo,30,8,Janitors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,9,Managers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,30,10,Dishwashers,LC_LW,Weki,0
+baseline,gpt-3.5-turbo,30,11,Veterinarians,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,12,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,13,Bankers,HC_LW,Weki,1
+baseline,gpt-3.5-turbo,30,14,Professors,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,30,15,Receptionists,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,30,16,Doctors,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,17,Doctors,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,18,Receptionists,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,19,Custodians,LC_LW,Reku,1
+baseline,gpt-3.5-turbo,30,20,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,21,Cashiers,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,22,Rehabilitation Counselors,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,23,Rehabilitation Counselors,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,24,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,30,25,Politicians,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,26,Psychiatrists,HC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,27,Lawyers,HC_LW,Reku,1
+baseline,gpt-3.5-turbo,30,28,Custodians,LC_LW,Weki,1
+baseline,gpt-3.5-turbo,30,29,Garbage Collectors,LC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,30,Psychiatrists,HC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,31,Teachers,HC_HW,Reku,1
+baseline,gpt-3.5-turbo,30,32,Veterinarians,HC_HW,Tufa,1
+baseline,gpt-3.5-turbo,30,33,Waiters,LC_HW,Aima,1
+baseline,gpt-3.5-turbo,30,34,Janitors,LC_LW,Reku,0
+baseline,gpt-3.5-turbo,30,35,Bankers,HC_LW,Tufa,1
+baseline,gpt-3.5-turbo,30,36,Homemakers,LC_HW,Weki,1
+baseline,gpt-3.5-turbo,30,37,Financial Advisors,HC_LW,Aima,1
+baseline,gpt-3.5-turbo,30,38,Childcare Aides,LC_HW,Reku,1
+baseline,gpt-3.5-turbo,30,39,Politicians,HC_LW,Weki,0
+baseline,gpt-3.5-turbo,30,40,Financial Advisors,HC_LW,Tufa,1
