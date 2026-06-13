@@ -1,9 +1,14 @@
+import sys
 import random
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 from typing import List, Dict
 
 import pandas as pd
+
+# baseline_replication_parallel.py lives in a sibling folder after the reorg
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "baseline replication" / "Parallel"))
 
 from baseline_replication_parallel import (
     GROUPS,

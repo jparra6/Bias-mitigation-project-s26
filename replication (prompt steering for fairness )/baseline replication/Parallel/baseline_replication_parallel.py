@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 import pandas as pd
 from openai import OpenAI, APIConnectionError, APITimeoutError, RateLimitError
 
-load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+load_dotenv(Path(__file__).resolve().parents[3] / ".env")
 api_key = os.getenv("API_KEY")
 client = OpenAI(api_key=api_key)
 

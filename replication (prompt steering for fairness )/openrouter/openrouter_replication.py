@@ -11,7 +11,7 @@ import pandas as pd
 from openai import OpenAI, APIConnectionError, APITimeoutError, RateLimitError
 
 # PASTE YOUR OPENROUTER API KEY HERE:
-OPENROUTER_API_KEY = "OPENROUTER_KEY_REMOVED"
+OPENROUTER_API_KEY = ""
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
