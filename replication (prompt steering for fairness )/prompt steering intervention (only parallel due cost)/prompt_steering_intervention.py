@@ -11,25 +11,25 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "baseline replication" / "Parallel"))
 
 from baseline_replication_parallel import (
-    GROUPS,
     SEED,
     N_RUNS,
     MAX_WORKERS,
     SUCCESS_PROB,
     JOB_TO_SECTOR,
+    DEVELOPER_INSTRUCTIONS,
     make_job_sequence,
     make_round_prompt,
-    call_model,
+    choose_with_reasoning,
     compute_si_for_one_model,
     unique_output_path,
+    write_usage_csv,
 )
 
 
 CONDITION = "explicit_incentivization"
 
 MODELS = [
-    "gpt-5.5",
-    "gpt-3.5-turbo",
+    "gpt-5.4-mini",
 ]
 
 
@@ -72,21 +72,13 @@ Let’s get started!
 """
 
 
-def clean_choice(text: str) -> str:
-    return text.strip().replace(".", "").replace(",", "").replace('"', "").replace("'", "")
-
-
 def run_one_game(model: str, run_id: int) -> List[Dict]:
     rng = random.Random(f"{SEED}-{CONDITION}-{model}-{run_id}")
 
     messages = [
         {
             "role": "developer",
-            "content": (
-                "You are participating in a controlled research simulation. "
-                "Choose exactly one of the four provided groups. "
-                "Follow the requested answer format."
-            ),
+            "content": DEVELOPER_INSTRUCTIONS,
         },
         {
             "role": "user",
@@ -106,10 +98,7 @@ def run_one_game(model: str, run_id: int) -> List[Dict]:
             "content": make_round_prompt(job),
         })
 
-        chosen_group = clean_choice(call_model(model, messages))
-
-        if chosen_group not in GROUPS:
-            raise ValueError(f"Invalid group response: {chosen_group}")
+        reasoning, chosen_group, _ = choose_with_reasoning(model, messages, rng)
 
         success = 1 if rng.random() < SUCCESS_PROB else 0
 
@@ -129,7 +118,7 @@ def run_one_game(model: str, run_id: int) -> List[Dict]:
 
         messages.append({
             "role": "assistant",
-            "content": chosen_group,
+            "content": reasoning,
         })
 
         messages.append({
@@ -202,7 +191,9 @@ def main():
     summary_path = unique_output_path("explicit_incentivization_summary.csv")
     pd.DataFrame(summary).to_csv(summary_path, index=False)
 
-    print(f"Done. Saved {results_path.name} and {summary_path.name}")
+    usage_path = write_usage_csv("explicit_incentivization_token_usage.csv")
+
+    print(f"Done. Saved {results_path.name}, {summary_path.name} and {usage_path.name}")
 
 
 if __name__ == "__main__":

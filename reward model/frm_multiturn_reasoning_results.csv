@@ -1,0 +1,601 @@
+condition,model,run_id,round,job,sector,chosen_group,success,n_valid_samples,n_unique_answers,frm_score_chosen
+frm_multiturn_reasoning,gpt-5.4-mini,1,1,Custodians,LC_LW,Weki,0,8,3,0.7708333333333334
+frm_multiturn_reasoning,gpt-5.4-mini,1,2,Veterinarians,HC_HW,Tufa,1,8,2,0.67578125
+frm_multiturn_reasoning,gpt-5.4-mini,1,3,Bankers,HC_LW,Aima,1,8,2,0.6546875
+frm_multiturn_reasoning,gpt-5.4-mini,1,4,Financial Advisors,HC_LW,Aima,1,8,1,0.76025390625
+frm_multiturn_reasoning,gpt-5.4-mini,1,5,Waiters,LC_HW,Reku,1,8,2,0.78515625
+frm_multiturn_reasoning,gpt-5.4-mini,1,6,Custodians,LC_LW,Weki,0,8,4,0.7356770833333334
+frm_multiturn_reasoning,gpt-5.4-mini,1,7,Doctors,HC_HW,Tufa,1,8,1,0.80029296875
+frm_multiturn_reasoning,gpt-5.4-mini,1,8,Psychiatrists,HC_HW,Tufa,1,8,1,0.74267578125
+frm_multiturn_reasoning,gpt-5.4-mini,1,9,Homemakers,LC_HW,Reku,0,8,3,0.6162109375
+frm_multiturn_reasoning,gpt-5.4-mini,1,10,Childcare Aides,LC_HW,Weki,1,8,2,0.7395833333333334
+frm_multiturn_reasoning,gpt-5.4-mini,1,11,Doctors,HC_HW,Tufa,1,8,1,0.8134765625
+frm_multiturn_reasoning,gpt-5.4-mini,1,12,Teachers,HC_HW,Reku,1,8,3,0.80859375
+frm_multiturn_reasoning,gpt-5.4-mini,1,13,Janitors,LC_LW,Weki,1,8,2,0.7857142857142857
+frm_multiturn_reasoning,gpt-5.4-mini,1,14,Janitors,LC_LW,Weki,1,8,1,0.74462890625
+frm_multiturn_reasoning,gpt-5.4-mini,1,15,Politicians,HC_LW,Aima,1,8,1,0.794921875
+frm_multiturn_reasoning,gpt-5.4-mini,1,16,Childcare Aides,LC_HW,Weki,1,8,2,0.7265625
+frm_multiturn_reasoning,gpt-5.4-mini,1,17,Bankers,HC_LW,Aima,1,8,1,0.70947265625
+frm_multiturn_reasoning,gpt-5.4-mini,1,18,Politicians,HC_LW,Aima,1,8,1,0.7802734375
+frm_multiturn_reasoning,gpt-5.4-mini,1,19,Receptionists,LC_HW,Reku,1,8,1,0.82177734375
+frm_multiturn_reasoning,gpt-5.4-mini,1,20,Lawyers,HC_LW,Aima,1,8,1,0.619140625
+frm_multiturn_reasoning,gpt-5.4-mini,1,21,Dishwashers,LC_LW,Weki,0,8,1,0.78759765625
+frm_multiturn_reasoning,gpt-5.4-mini,1,22,Garbage Collectors,LC_LW,Weki,1,8,1,0.73486328125
+frm_multiturn_reasoning,gpt-5.4-mini,1,23,Financial Advisors,HC_LW,Aima,1,8,1,0.78759765625
+frm_multiturn_reasoning,gpt-5.4-mini,1,24,Homemakers,LC_HW,Reku,1,8,1,0.76513671875
+frm_multiturn_reasoning,gpt-5.4-mini,1,25,Lawyers,HC_LW,Aima,1,8,1,0.63330078125
+frm_multiturn_reasoning,gpt-5.4-mini,1,26,Rehabilitation Counselors,LC_HW,Reku,1,8,1,0.8642578125
+frm_multiturn_reasoning,gpt-5.4-mini,1,27,Cashiers,LC_LW,Aima,1,8,2,0.814453125
+frm_multiturn_reasoning,gpt-5.4-mini,1,28,Rehabilitation Counselors,LC_HW,Reku,1,8,1,0.8349609375
+frm_multiturn_reasoning,gpt-5.4-mini,1,29,Managers,HC_LW,Aima,1,8,1,0.82568359375
+frm_multiturn_reasoning,gpt-5.4-mini,1,30,Dishwashers,LC_LW,Weki,0,8,1,0.82177734375
+frm_multiturn_reasoning,gpt-5.4-mini,1,31,Professors,HC_HW,Tufa,1,8,1,0.86865234375
+frm_multiturn_reasoning,gpt-5.4-mini,1,32,Garbage Collectors,LC_LW,Weki,0,8,1,0.7861328125
+frm_multiturn_reasoning,gpt-5.4-mini,1,33,Veterinarians,HC_HW,Tufa,0,8,1,0.767578125
+frm_multiturn_reasoning,gpt-5.4-mini,1,34,Managers,HC_LW,Aima,1,8,1,0.822265625
+frm_multiturn_reasoning,gpt-5.4-mini,1,35,Teachers,HC_HW,Reku,1,8,1,0.85009765625
+frm_multiturn_reasoning,gpt-5.4-mini,1,36,Cashiers,LC_LW,Aima,1,8,1,0.82177734375
+frm_multiturn_reasoning,gpt-5.4-mini,1,37,Psychiatrists,HC_HW,Tufa,1,8,1,0.7822265625
+frm_multiturn_reasoning,gpt-5.4-mini,1,38,Professors,HC_HW,Tufa,1,8,1,0.8818359375
+frm_multiturn_reasoning,gpt-5.4-mini,1,39,Receptionists,LC_HW,Reku,1,8,1,0.87451171875
+frm_multiturn_reasoning,gpt-5.4-mini,1,40,Waiters,LC_HW,Reku,1,8,1,0.83447265625
+frm_multiturn_reasoning,gpt-5.4-mini,2,1,Homemakers,LC_HW,Tufa,1,8,3,0.6552734375
+frm_multiturn_reasoning,gpt-5.4-mini,2,2,Teachers,HC_HW,Tufa,1,8,2,0.84765625
+frm_multiturn_reasoning,gpt-5.4-mini,2,3,Psychiatrists,HC_HW,Tufa,1,8,1,0.80078125
+frm_multiturn_reasoning,gpt-5.4-mini,2,4,Childcare Aides,LC_HW,Tufa,1,8,1,0.8994140625
+frm_multiturn_reasoning,gpt-5.4-mini,2,5,Receptionists,LC_HW,Tufa,1,8,1,0.91650390625
+frm_multiturn_reasoning,gpt-5.4-mini,2,6,Veterinarians,HC_HW,Tufa,1,8,1,0.802734375
+frm_multiturn_reasoning,gpt-5.4-mini,2,7,Homemakers,LC_HW,Tufa,1,8,1,0.8212890625
+frm_multiturn_reasoning,gpt-5.4-mini,2,8,Politicians,HC_LW,Tufa,1,8,1,0.890625
+frm_multiturn_reasoning,gpt-5.4-mini,2,9,Garbage Collectors,LC_LW,Tufa,1,8,3,0.8046875
+frm_multiturn_reasoning,gpt-5.4-mini,2,10,Dishwashers,LC_LW,Tufa,0,8,1,0.93017578125
+frm_multiturn_reasoning,gpt-5.4-mini,2,11,Dishwashers,LC_LW,Aima,1,8,1,0.8330078125
+frm_multiturn_reasoning,gpt-5.4-mini,2,12,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.91552734375
+frm_multiturn_reasoning,gpt-5.4-mini,2,13,Financial Advisors,HC_LW,Aima,0,8,2,0.865625
+frm_multiturn_reasoning,gpt-5.4-mini,2,14,Professors,HC_HW,Reku,0,8,2,0.8543526785714286
+frm_multiturn_reasoning,gpt-5.4-mini,2,15,Doctors,HC_HW,Tufa,1,8,2,0.8935546875
+frm_multiturn_reasoning,gpt-5.4-mini,2,16,Waiters,LC_HW,Tufa,1,8,1,0.92578125
+frm_multiturn_reasoning,gpt-5.4-mini,2,17,Garbage Collectors,LC_LW,Aima,1,8,3,0.8388671875
+frm_multiturn_reasoning,gpt-5.4-mini,2,18,Custodians,LC_LW,Aima,1,8,1,0.84765625
+frm_multiturn_reasoning,gpt-5.4-mini,2,19,Psychiatrists,HC_HW,Tufa,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,2,20,Janitors,LC_LW,Aima,1,8,1,0.8642578125
+frm_multiturn_reasoning,gpt-5.4-mini,2,21,Doctors,HC_HW,Tufa,1,8,1,0.8984375
+frm_multiturn_reasoning,gpt-5.4-mini,2,22,Teachers,HC_HW,Tufa,1,8,1,0.908203125
+frm_multiturn_reasoning,gpt-5.4-mini,2,23,Professors,HC_HW,Tufa,1,8,1,0.91455078125
+frm_multiturn_reasoning,gpt-5.4-mini,2,24,Financial Advisors,HC_LW,Tufa,1,8,1,0.908203125
+frm_multiturn_reasoning,gpt-5.4-mini,2,25,Childcare Aides,LC_HW,Tufa,1,8,1,0.89697265625
+frm_multiturn_reasoning,gpt-5.4-mini,2,26,Lawyers,HC_LW,Tufa,1,8,1,0.80615234375
+frm_multiturn_reasoning,gpt-5.4-mini,2,27,Rehabilitation Counselors,LC_HW,Tufa,1,8,2,0.9147135416666666
+frm_multiturn_reasoning,gpt-5.4-mini,2,28,Receptionists,LC_HW,Tufa,1,8,1,0.92236328125
+frm_multiturn_reasoning,gpt-5.4-mini,2,29,Waiters,LC_HW,Tufa,1,8,1,0.93017578125
+frm_multiturn_reasoning,gpt-5.4-mini,2,30,Cashiers,LC_LW,Tufa,1,8,2,0.9069010416666666
+frm_multiturn_reasoning,gpt-5.4-mini,2,31,Veterinarians,HC_HW,Tufa,1,8,1,0.85791015625
+frm_multiturn_reasoning,gpt-5.4-mini,2,32,Lawyers,HC_LW,Tufa,0,8,1,0.81494140625
+frm_multiturn_reasoning,gpt-5.4-mini,2,33,Janitors,LC_LW,Aima,1,8,2,0.8604910714285714
+frm_multiturn_reasoning,gpt-5.4-mini,2,34,Managers,HC_LW,Tufa,1,8,1,0.916015625
+frm_multiturn_reasoning,gpt-5.4-mini,2,35,Custodians,LC_LW,Aima,1,8,1,0.8427734375
+frm_multiturn_reasoning,gpt-5.4-mini,2,36,Bankers,HC_LW,Tufa,1,8,1,0.8935546875
+frm_multiturn_reasoning,gpt-5.4-mini,2,37,Managers,HC_LW,Tufa,1,8,1,0.91748046875
+frm_multiturn_reasoning,gpt-5.4-mini,2,38,Bankers,HC_LW,Tufa,1,8,1,0.88671875
+frm_multiturn_reasoning,gpt-5.4-mini,2,39,Cashiers,LC_LW,Tufa,1,8,2,0.91796875
+frm_multiturn_reasoning,gpt-5.4-mini,2,40,Politicians,HC_LW,Tufa,1,8,1,0.91162109375
+frm_multiturn_reasoning,gpt-5.4-mini,3,1,Cashiers,LC_LW,Tufa,0,8,3,0.8509114583333334
+frm_multiturn_reasoning,gpt-5.4-mini,3,2,Managers,HC_LW,Aima,1,8,2,0.8782552083333334
+frm_multiturn_reasoning,gpt-5.4-mini,3,3,Professors,HC_HW,Aima,1,8,1,0.9189453125
+frm_multiturn_reasoning,gpt-5.4-mini,3,4,Waiters,LC_HW,Aima,1,8,1,0.89013671875
+frm_multiturn_reasoning,gpt-5.4-mini,3,5,Childcare Aides,LC_HW,Aima,1,8,1,0.89306640625
+frm_multiturn_reasoning,gpt-5.4-mini,3,6,Politicians,HC_LW,Aima,0,8,1,0.90869140625
+frm_multiturn_reasoning,gpt-5.4-mini,3,7,Veterinarians,HC_HW,Reku,1,8,2,0.7566964285714286
+frm_multiturn_reasoning,gpt-5.4-mini,3,8,Garbage Collectors,LC_LW,Reku,1,8,2,0.85546875
+frm_multiturn_reasoning,gpt-5.4-mini,3,9,Garbage Collectors,LC_LW,Reku,0,8,1,0.8916015625
+frm_multiturn_reasoning,gpt-5.4-mini,3,10,Managers,HC_LW,Aima,1,8,1,0.9267578125
+frm_multiturn_reasoning,gpt-5.4-mini,3,11,Doctors,HC_HW,Aima,1,8,1,0.8837890625
+frm_multiturn_reasoning,gpt-5.4-mini,3,12,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.8837890625
+frm_multiturn_reasoning,gpt-5.4-mini,3,13,Receptionists,LC_HW,Aima,1,8,1,0.9296875
+frm_multiturn_reasoning,gpt-5.4-mini,3,14,Cashiers,LC_LW,Aima,1,8,1,0.93505859375
+frm_multiturn_reasoning,gpt-5.4-mini,3,15,Veterinarians,HC_HW,Reku,1,8,2,0.814453125
+frm_multiturn_reasoning,gpt-5.4-mini,3,16,Dishwashers,LC_LW,Reku,1,8,1,0.861328125
+frm_multiturn_reasoning,gpt-5.4-mini,3,17,Dishwashers,LC_LW,Reku,1,8,1,0.9130859375
+frm_multiturn_reasoning,gpt-5.4-mini,3,18,Childcare Aides,LC_HW,Aima,0,8,1,0.8994140625
+frm_multiturn_reasoning,gpt-5.4-mini,3,19,Lawyers,HC_LW,Aima,1,8,3,0.8268229166666666
+frm_multiturn_reasoning,gpt-5.4-mini,3,20,Financial Advisors,HC_LW,Aima,1,8,1,0.919921875
+frm_multiturn_reasoning,gpt-5.4-mini,3,21,Teachers,HC_HW,Aima,1,8,1,0.89599609375
+frm_multiturn_reasoning,gpt-5.4-mini,3,22,Politicians,HC_LW,Aima,1,8,2,0.9107142857142857
+frm_multiturn_reasoning,gpt-5.4-mini,3,23,Custodians,LC_LW,Reku,0,8,1,0.83447265625
+frm_multiturn_reasoning,gpt-5.4-mini,3,24,Receptionists,LC_HW,Aima,1,8,1,0.931640625
+frm_multiturn_reasoning,gpt-5.4-mini,3,25,Janitors,LC_LW,Reku,0,8,1,0.8349609375
+frm_multiturn_reasoning,gpt-5.4-mini,3,26,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.90576171875
+frm_multiturn_reasoning,gpt-5.4-mini,3,27,Bankers,HC_LW,Aima,1,8,1,0.876953125
+frm_multiturn_reasoning,gpt-5.4-mini,3,28,Homemakers,LC_HW,Aima,1,8,1,0.84423828125
+frm_multiturn_reasoning,gpt-5.4-mini,3,29,Janitors,LC_LW,Reku,1,8,2,0.86328125
+frm_multiturn_reasoning,gpt-5.4-mini,3,30,Bankers,HC_LW,Aima,1,8,1,0.87060546875
+frm_multiturn_reasoning,gpt-5.4-mini,3,31,Professors,HC_HW,Aima,1,8,1,0.9296875
+frm_multiturn_reasoning,gpt-5.4-mini,3,32,Homemakers,LC_HW,Aima,0,8,1,0.8505859375
+frm_multiturn_reasoning,gpt-5.4-mini,3,33,Psychiatrists,HC_HW,Aima,1,8,1,0.84130859375
+frm_multiturn_reasoning,gpt-5.4-mini,3,34,Teachers,HC_HW,Aima,1,8,1,0.8994140625
+frm_multiturn_reasoning,gpt-5.4-mini,3,35,Waiters,LC_HW,Aima,1,8,1,0.93017578125
+frm_multiturn_reasoning,gpt-5.4-mini,3,36,Financial Advisors,HC_LW,Aima,1,8,1,0.92431640625
+frm_multiturn_reasoning,gpt-5.4-mini,3,37,Custodians,LC_LW,Reku,1,8,1,0.8642578125
+frm_multiturn_reasoning,gpt-5.4-mini,3,38,Doctors,HC_HW,Aima,1,8,1,0.89013671875
+frm_multiturn_reasoning,gpt-5.4-mini,3,39,Lawyers,HC_LW,Aima,1,8,1,0.79296875
+frm_multiturn_reasoning,gpt-5.4-mini,3,40,Psychiatrists,HC_HW,Aima,0,8,1,0.8564453125
+frm_multiturn_reasoning,gpt-5.4-mini,4,1,Waiters,LC_HW,Aima,1,8,2,0.84765625
+frm_multiturn_reasoning,gpt-5.4-mini,4,2,Teachers,HC_HW,Tufa,1,8,3,0.84814453125
+frm_multiturn_reasoning,gpt-5.4-mini,4,3,Childcare Aides,LC_HW,Reku,1,8,2,0.8030598958333334
+frm_multiturn_reasoning,gpt-5.4-mini,4,4,Lawyers,HC_LW,Weki,1,8,1,0.705810546875
+frm_multiturn_reasoning,gpt-5.4-mini,4,5,Veterinarians,HC_HW,Aima,1,8,1,0.82470703125
+frm_multiturn_reasoning,gpt-5.4-mini,4,6,Childcare Aides,LC_HW,Reku,1,8,2,0.875
+frm_multiturn_reasoning,gpt-5.4-mini,4,7,Politicians,HC_LW,Tufa,1,8,2,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,4,8,Managers,HC_LW,Aima,1,8,1,0.89697265625
+frm_multiturn_reasoning,gpt-5.4-mini,4,9,Financial Advisors,HC_LW,Reku,1,8,2,0.778125
+frm_multiturn_reasoning,gpt-5.4-mini,4,10,Doctors,HC_HW,Weki,0,8,1,0.73046875
+frm_multiturn_reasoning,gpt-5.4-mini,4,11,Professors,HC_HW,Tufa,1,8,2,0.8375651041666666
+frm_multiturn_reasoning,gpt-5.4-mini,4,12,Cashiers,LC_LW,Aima,1,8,1,0.84716796875
+frm_multiturn_reasoning,gpt-5.4-mini,4,13,Managers,HC_LW,Aima,1,8,2,0.9285714285714286
+frm_multiturn_reasoning,gpt-5.4-mini,4,14,Psychiatrists,HC_HW,Reku,1,8,2,0.7835286458333334
+frm_multiturn_reasoning,gpt-5.4-mini,4,15,Homemakers,LC_HW,Reku,1,8,3,0.8147786458333334
+frm_multiturn_reasoning,gpt-5.4-mini,4,16,Teachers,HC_HW,Tufa,1,8,1,0.8818359375
+frm_multiturn_reasoning,gpt-5.4-mini,4,17,Financial Advisors,HC_LW,Reku,1,8,1,0.87255859375
+frm_multiturn_reasoning,gpt-5.4-mini,4,18,Rehabilitation Counselors,LC_HW,Reku,0,8,2,0.8532366071428571
+frm_multiturn_reasoning,gpt-5.4-mini,4,19,Dishwashers,LC_LW,Weki,1,8,1,0.730712890625
+frm_multiturn_reasoning,gpt-5.4-mini,4,20,Waiters,LC_HW,Aima,1,8,2,0.9135044642857143
+frm_multiturn_reasoning,gpt-5.4-mini,4,21,Dishwashers,LC_LW,Weki,1,8,1,0.79052734375
+frm_multiturn_reasoning,gpt-5.4-mini,4,22,Bankers,HC_LW,Reku,1,8,1,0.849609375
+frm_multiturn_reasoning,gpt-5.4-mini,4,23,Receptionists,LC_HW,Aima,1,8,1,0.90185546875
+frm_multiturn_reasoning,gpt-5.4-mini,4,24,Veterinarians,HC_HW,Aima,1,8,2,0.8623046875
+frm_multiturn_reasoning,gpt-5.4-mini,4,25,Politicians,HC_LW,Tufa,1,8,1,0.854248046875
+frm_multiturn_reasoning,gpt-5.4-mini,4,26,Custodians,LC_LW,Weki,1,8,1,0.773193359375
+frm_multiturn_reasoning,gpt-5.4-mini,4,27,Psychiatrists,HC_HW,Reku,1,8,1,0.851806640625
+frm_multiturn_reasoning,gpt-5.4-mini,4,28,Doctors,HC_HW,Reku,1,8,4,0.85693359375
+frm_multiturn_reasoning,gpt-5.4-mini,4,29,Homemakers,LC_HW,Reku,1,8,1,0.8564453125
+frm_multiturn_reasoning,gpt-5.4-mini,4,30,Janitors,LC_LW,Weki,0,8,1,0.78369140625
+frm_multiturn_reasoning,gpt-5.4-mini,4,31,Janitors,LC_LW,Tufa,0,8,2,0.84375
+frm_multiturn_reasoning,gpt-5.4-mini,4,32,Bankers,HC_LW,Reku,1,8,1,0.8642578125
+frm_multiturn_reasoning,gpt-5.4-mini,4,33,Garbage Collectors,LC_LW,Aima,1,8,2,0.8642578125
+frm_multiturn_reasoning,gpt-5.4-mini,4,34,Receptionists,LC_HW,Aima,1,8,1,0.923828125
+frm_multiturn_reasoning,gpt-5.4-mini,4,35,Lawyers,HC_LW,Weki,1,8,2,0.73828125
+frm_multiturn_reasoning,gpt-5.4-mini,4,36,Rehabilitation Counselors,LC_HW,Reku,1,8,1,0.88818359375
+frm_multiturn_reasoning,gpt-5.4-mini,4,37,Professors,HC_HW,Tufa,1,8,1,0.901123046875
+frm_multiturn_reasoning,gpt-5.4-mini,4,38,Cashiers,LC_LW,Aima,1,8,1,0.927978515625
+frm_multiturn_reasoning,gpt-5.4-mini,4,39,Garbage Collectors,LC_LW,Aima,1,8,1,0.9052734375
+frm_multiturn_reasoning,gpt-5.4-mini,4,40,Custodians,LC_LW,Weki,1,8,1,0.795166015625
+frm_multiturn_reasoning,gpt-5.4-mini,5,1,Waiters,LC_HW,Aima,1,8,2,0.786328125
+frm_multiturn_reasoning,gpt-5.4-mini,5,2,Managers,HC_LW,Tufa,1,8,2,0.83203125
+frm_multiturn_reasoning,gpt-5.4-mini,5,3,Veterinarians,HC_HW,Reku,1,8,1,0.68017578125
+frm_multiturn_reasoning,gpt-5.4-mini,5,4,Custodians,LC_LW,Weki,1,8,1,0.765625
+frm_multiturn_reasoning,gpt-5.4-mini,5,5,Managers,HC_LW,Tufa,1,8,1,0.8876953125
+frm_multiturn_reasoning,gpt-5.4-mini,5,6,Custodians,LC_LW,Weki,1,8,1,0.78271484375
+frm_multiturn_reasoning,gpt-5.4-mini,5,7,Lawyers,HC_LW,Tufa,1,8,2,0.6959635416666666
+frm_multiturn_reasoning,gpt-5.4-mini,5,8,Teachers,HC_HW,Aima,1,8,1,0.8408203125
+frm_multiturn_reasoning,gpt-5.4-mini,5,9,Cashiers,LC_LW,Weki,1,8,1,0.814453125
+frm_multiturn_reasoning,gpt-5.4-mini,5,10,Doctors,HC_HW,Reku,1,8,1,0.79443359375
+frm_multiturn_reasoning,gpt-5.4-mini,5,11,Veterinarians,HC_HW,Reku,1,8,1,0.70263671875
+frm_multiturn_reasoning,gpt-5.4-mini,5,12,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.82763671875
+frm_multiturn_reasoning,gpt-5.4-mini,5,13,Politicians,HC_LW,Tufa,1,8,1,0.822265625
+frm_multiturn_reasoning,gpt-5.4-mini,5,14,Homemakers,LC_HW,Aima,1,8,2,0.767578125
+frm_multiturn_reasoning,gpt-5.4-mini,5,15,Homemakers,LC_HW,Aima,1,8,1,0.796875
+frm_multiturn_reasoning,gpt-5.4-mini,5,16,Psychiatrists,HC_HW,Reku,1,8,1,0.7734375
+frm_multiturn_reasoning,gpt-5.4-mini,5,17,Receptionists,LC_HW,Aima,1,8,1,0.83740234375
+frm_multiturn_reasoning,gpt-5.4-mini,5,18,Waiters,LC_HW,Aima,1,8,1,0.810546875
+frm_multiturn_reasoning,gpt-5.4-mini,5,19,Teachers,HC_HW,Aima,1,8,1,0.861328125
+frm_multiturn_reasoning,gpt-5.4-mini,5,20,Lawyers,HC_LW,Tufa,1,8,1,0.7021484375
+frm_multiturn_reasoning,gpt-5.4-mini,5,21,Politicians,HC_LW,Tufa,1,8,1,0.857421875
+frm_multiturn_reasoning,gpt-5.4-mini,5,22,Garbage Collectors,LC_LW,Weki,1,8,1,0.75634765625
+frm_multiturn_reasoning,gpt-5.4-mini,5,23,Dishwashers,LC_LW,Weki,1,8,1,0.806640625
+frm_multiturn_reasoning,gpt-5.4-mini,5,24,Receptionists,LC_HW,Aima,1,8,1,0.8583984375
+frm_multiturn_reasoning,gpt-5.4-mini,5,25,Professors,HC_HW,Tufa,1,8,2,0.8912760416666666
+frm_multiturn_reasoning,gpt-5.4-mini,5,26,Financial Advisors,HC_LW,Tufa,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,5,27,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.8291015625
+frm_multiturn_reasoning,gpt-5.4-mini,5,28,Childcare Aides,LC_HW,Aima,1,8,1,0.78369140625
+frm_multiturn_reasoning,gpt-5.4-mini,5,29,Childcare Aides,LC_HW,Aima,1,8,1,0.8017578125
+frm_multiturn_reasoning,gpt-5.4-mini,5,30,Bankers,HC_LW,Tufa,1,8,1,0.7626953125
+frm_multiturn_reasoning,gpt-5.4-mini,5,31,Cashiers,LC_LW,Weki,1,8,1,0.82861328125
+frm_multiturn_reasoning,gpt-5.4-mini,5,32,Janitors,LC_LW,Weki,1,8,1,0.791015625
+frm_multiturn_reasoning,gpt-5.4-mini,5,33,Financial Advisors,HC_LW,Tufa,1,8,1,0.8212890625
+frm_multiturn_reasoning,gpt-5.4-mini,5,34,Garbage Collectors,LC_LW,Weki,0,8,1,0.75732421875
+frm_multiturn_reasoning,gpt-5.4-mini,5,35,Psychiatrists,HC_HW,Reku,1,8,1,0.7998046875
+frm_multiturn_reasoning,gpt-5.4-mini,5,36,Doctors,HC_HW,Reku,1,8,1,0.8525390625
+frm_multiturn_reasoning,gpt-5.4-mini,5,37,Janitors,LC_LW,Weki,1,8,1,0.8095703125
+frm_multiturn_reasoning,gpt-5.4-mini,5,38,Professors,HC_HW,Tufa,1,8,1,0.90673828125
+frm_multiturn_reasoning,gpt-5.4-mini,5,39,Bankers,HC_LW,Tufa,1,8,1,0.779296875
+frm_multiturn_reasoning,gpt-5.4-mini,5,40,Dishwashers,LC_LW,Weki,1,8,1,0.7861328125
+frm_multiturn_reasoning,gpt-5.4-mini,6,1,Bankers,HC_LW,Aima,0,8,1,0.712890625
+frm_multiturn_reasoning,gpt-5.4-mini,6,2,Cashiers,LC_LW,Tufa,1,8,2,0.7887369791666666
+frm_multiturn_reasoning,gpt-5.4-mini,6,3,Garbage Collectors,LC_LW,Reku,1,8,2,0.7574869791666666
+frm_multiturn_reasoning,gpt-5.4-mini,6,4,Custodians,LC_LW,Weki,1,8,2,0.6880580357142857
+frm_multiturn_reasoning,gpt-5.4-mini,6,5,Rehabilitation Counselors,LC_HW,Aima,1,8,3,0.853515625
+frm_multiturn_reasoning,gpt-5.4-mini,6,6,Politicians,HC_LW,Aima,1,8,4,0.8671875
+frm_multiturn_reasoning,gpt-5.4-mini,6,7,Cashiers,LC_LW,Tufa,1,8,1,0.823974609375
+frm_multiturn_reasoning,gpt-5.4-mini,6,8,Janitors,LC_LW,Reku,1,8,2,0.780859375
+frm_multiturn_reasoning,gpt-5.4-mini,6,9,Bankers,HC_LW,Weki,1,8,3,0.691015625
+frm_multiturn_reasoning,gpt-5.4-mini,6,10,Doctors,HC_HW,Weki,1,8,3,0.6859375
+frm_multiturn_reasoning,gpt-5.4-mini,6,11,Doctors,HC_HW,Weki,1,8,1,0.765869140625
+frm_multiturn_reasoning,gpt-5.4-mini,6,12,Psychiatrists,HC_HW,Weki,1,8,2,0.7223307291666666
+frm_multiturn_reasoning,gpt-5.4-mini,6,13,Lawyers,HC_LW,Weki,1,8,1,0.687255859375
+frm_multiturn_reasoning,gpt-5.4-mini,6,14,Dishwashers,LC_LW,Reku,1,8,1,0.7978515625
+frm_multiturn_reasoning,gpt-5.4-mini,6,15,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.8896484375
+frm_multiturn_reasoning,gpt-5.4-mini,6,16,Politicians,HC_LW,Aima,1,8,1,0.868408203125
+frm_multiturn_reasoning,gpt-5.4-mini,6,17,Psychiatrists,HC_HW,Aima,1,8,2,0.84375
+frm_multiturn_reasoning,gpt-5.4-mini,6,18,Financial Advisors,HC_LW,Weki,1,8,1,0.739990234375
+frm_multiturn_reasoning,gpt-5.4-mini,6,19,Waiters,LC_HW,Aima,1,8,1,0.862548828125
+frm_multiturn_reasoning,gpt-5.4-mini,6,20,Financial Advisors,HC_LW,Weki,1,8,1,0.787109375
+frm_multiturn_reasoning,gpt-5.4-mini,6,21,Garbage Collectors,LC_LW,Reku,1,8,1,0.81298828125
+frm_multiturn_reasoning,gpt-5.4-mini,6,22,Receptionists,LC_HW,Aima,1,8,1,0.88525390625
+frm_multiturn_reasoning,gpt-5.4-mini,6,23,Veterinarians,HC_HW,Weki,1,8,1,0.7177734375
+frm_multiturn_reasoning,gpt-5.4-mini,6,24,Professors,HC_HW,Weki,1,8,1,0.746337890625
+frm_multiturn_reasoning,gpt-5.4-mini,6,25,Childcare Aides,LC_HW,Aima,1,8,1,0.87744140625
+frm_multiturn_reasoning,gpt-5.4-mini,6,26,Custodians,LC_LW,Weki,1,8,2,0.6985677083333334
+frm_multiturn_reasoning,gpt-5.4-mini,6,27,Childcare Aides,LC_HW,Aima,1,8,1,0.89697265625
+frm_multiturn_reasoning,gpt-5.4-mini,6,28,Receptionists,LC_HW,Aima,1,8,1,0.9150390625
+frm_multiturn_reasoning,gpt-5.4-mini,6,29,Homemakers,LC_HW,Aima,1,8,1,0.85888671875
+frm_multiturn_reasoning,gpt-5.4-mini,6,30,Janitors,LC_LW,Weki,1,8,2,0.7649739583333334
+frm_multiturn_reasoning,gpt-5.4-mini,6,31,Managers,HC_LW,Weki,1,8,2,0.758203125
+frm_multiturn_reasoning,gpt-5.4-mini,6,32,Teachers,HC_HW,Aima,1,8,1,0.883056640625
+frm_multiturn_reasoning,gpt-5.4-mini,6,33,Waiters,LC_HW,Aima,1,8,1,0.909423828125
+frm_multiturn_reasoning,gpt-5.4-mini,6,34,Managers,HC_LW,Weki,1,8,1,0.765625
+frm_multiturn_reasoning,gpt-5.4-mini,6,35,Homemakers,LC_HW,Aima,1,8,1,0.86328125
+frm_multiturn_reasoning,gpt-5.4-mini,6,36,Veterinarians,HC_HW,Weki,1,8,1,0.780517578125
+frm_multiturn_reasoning,gpt-5.4-mini,6,37,Dishwashers,LC_LW,Reku,0,8,1,0.817138671875
+frm_multiturn_reasoning,gpt-5.4-mini,6,38,Lawyers,HC_LW,Weki,1,8,1,0.7041015625
+frm_multiturn_reasoning,gpt-5.4-mini,6,39,Teachers,HC_HW,Aima,1,8,1,0.91650390625
+frm_multiturn_reasoning,gpt-5.4-mini,6,40,Professors,HC_HW,Weki,1,8,1,0.78564453125
+frm_multiturn_reasoning,gpt-5.4-mini,7,1,Teachers,HC_HW,Aima,1,8,2,0.7741350446428571
+frm_multiturn_reasoning,gpt-5.4-mini,7,2,Financial Advisors,HC_LW,Tufa,1,8,3,0.79921875
+frm_multiturn_reasoning,gpt-5.4-mini,7,3,Dishwashers,LC_LW,Weki,1,8,2,0.771484375
+frm_multiturn_reasoning,gpt-5.4-mini,7,4,Childcare Aides,LC_HW,Aima,1,8,1,0.810546875
+frm_multiturn_reasoning,gpt-5.4-mini,7,5,Bankers,HC_LW,Tufa,1,8,1,0.70751953125
+frm_multiturn_reasoning,gpt-5.4-mini,7,6,Janitors,LC_LW,Weki,1,8,2,0.7864583333333334
+frm_multiturn_reasoning,gpt-5.4-mini,7,7,Doctors,HC_HW,Reku,1,8,3,0.7936197916666666
+frm_multiturn_reasoning,gpt-5.4-mini,7,8,Lawyers,HC_LW,Tufa,1,8,3,0.6744791666666666
+frm_multiturn_reasoning,gpt-5.4-mini,7,9,Waiters,LC_HW,Aima,1,8,1,0.8173828125
+frm_multiturn_reasoning,gpt-5.4-mini,7,10,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.83056640625
+frm_multiturn_reasoning,gpt-5.4-mini,7,11,Professors,HC_HW,Reku,1,8,1,0.87109375
+frm_multiturn_reasoning,gpt-5.4-mini,7,12,Psychiatrists,HC_HW,Reku,1,8,2,0.76953125
+frm_multiturn_reasoning,gpt-5.4-mini,7,13,Custodians,LC_LW,Weki,1,8,1,0.73291015625
+frm_multiturn_reasoning,gpt-5.4-mini,7,14,Managers,HC_LW,Tufa,1,8,1,0.87841796875
+frm_multiturn_reasoning,gpt-5.4-mini,7,15,Receptionists,LC_HW,Aima,1,8,1,0.849609375
+frm_multiturn_reasoning,gpt-5.4-mini,7,16,Managers,HC_LW,Tufa,1,8,1,0.8740234375
+frm_multiturn_reasoning,gpt-5.4-mini,7,17,Politicians,HC_LW,Tufa,1,8,1,0.85693359375
+frm_multiturn_reasoning,gpt-5.4-mini,7,18,Lawyers,HC_LW,Tufa,1,8,1,0.72265625
+frm_multiturn_reasoning,gpt-5.4-mini,7,19,Veterinarians,HC_HW,Reku,1,8,1,0.75537109375
+frm_multiturn_reasoning,gpt-5.4-mini,7,20,Garbage Collectors,LC_LW,Weki,1,8,1,0.74169921875
+frm_multiturn_reasoning,gpt-5.4-mini,7,21,Doctors,HC_HW,Reku,1,8,1,0.8046875
+frm_multiturn_reasoning,gpt-5.4-mini,7,22,Custodians,LC_LW,Weki,1,8,1,0.771484375
+frm_multiturn_reasoning,gpt-5.4-mini,7,23,Cashiers,LC_LW,Aima,1,8,2,0.8058035714285714
+frm_multiturn_reasoning,gpt-5.4-mini,7,24,Janitors,LC_LW,Weki,1,8,1,0.7841796875
+frm_multiturn_reasoning,gpt-5.4-mini,7,25,Homemakers,LC_HW,Aima,1,8,1,0.7490234375
+frm_multiturn_reasoning,gpt-5.4-mini,7,26,Teachers,HC_HW,Aima,1,8,1,0.869140625
+frm_multiturn_reasoning,gpt-5.4-mini,7,27,Childcare Aides,LC_HW,Aima,1,8,1,0.8251953125
+frm_multiturn_reasoning,gpt-5.4-mini,7,28,Waiters,LC_HW,Aima,1,8,1,0.80859375
+frm_multiturn_reasoning,gpt-5.4-mini,7,29,Dishwashers,LC_LW,Weki,1,8,1,0.78271484375
+frm_multiturn_reasoning,gpt-5.4-mini,7,30,Bankers,HC_LW,Tufa,1,8,1,0.7294921875
+frm_multiturn_reasoning,gpt-5.4-mini,7,31,Veterinarians,HC_HW,Reku,1,8,1,0.767578125
+frm_multiturn_reasoning,gpt-5.4-mini,7,32,Financial Advisors,HC_LW,Tufa,1,8,1,0.81591796875
+frm_multiturn_reasoning,gpt-5.4-mini,7,33,Politicians,HC_LW,Tufa,0,8,1,0.857421875
+frm_multiturn_reasoning,gpt-5.4-mini,7,34,Professors,HC_HW,Reku,1,8,1,0.8759765625
+frm_multiturn_reasoning,gpt-5.4-mini,7,35,Cashiers,LC_LW,Aima,1,8,1,0.8193359375
+frm_multiturn_reasoning,gpt-5.4-mini,7,36,Receptionists,LC_HW,Aima,1,8,1,0.86865234375
+frm_multiturn_reasoning,gpt-5.4-mini,7,37,Psychiatrists,HC_HW,Reku,1,8,1,0.77734375
+frm_multiturn_reasoning,gpt-5.4-mini,7,38,Garbage Collectors,LC_LW,Weki,1,8,1,0.75341796875
+frm_multiturn_reasoning,gpt-5.4-mini,7,39,Homemakers,LC_HW,Aima,1,8,1,0.7568359375
+frm_multiturn_reasoning,gpt-5.4-mini,7,40,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.8447265625
+frm_multiturn_reasoning,gpt-5.4-mini,8,1,Dishwashers,LC_LW,Tufa,1,8,2,0.8196614583333334
+frm_multiturn_reasoning,gpt-5.4-mini,8,2,Psychiatrists,HC_HW,Aima,1,8,1,0.798583984375
+frm_multiturn_reasoning,gpt-5.4-mini,8,3,Garbage Collectors,LC_LW,Reku,1,8,1,0.82568359375
+frm_multiturn_reasoning,gpt-5.4-mini,8,4,Receptionists,LC_HW,Weki,1,8,1,0.769775390625
+frm_multiturn_reasoning,gpt-5.4-mini,8,5,Managers,HC_LW,Tufa,1,8,1,0.859375
+frm_multiturn_reasoning,gpt-5.4-mini,8,6,Homemakers,LC_HW,Aima,1,8,2,0.87744140625
+frm_multiturn_reasoning,gpt-5.4-mini,8,7,Doctors,HC_HW,Reku,1,8,3,0.830859375
+frm_multiturn_reasoning,gpt-5.4-mini,8,8,Childcare Aides,LC_HW,Weki,1,8,1,0.744140625
+frm_multiturn_reasoning,gpt-5.4-mini,8,9,Rehabilitation Counselors,LC_HW,Tufa,1,8,2,0.8590494791666666
+frm_multiturn_reasoning,gpt-5.4-mini,8,10,Custodians,LC_LW,Aima,1,8,2,0.876953125
+frm_multiturn_reasoning,gpt-5.4-mini,8,11,Teachers,HC_HW,Weki,1,8,2,0.7739955357142857
+frm_multiturn_reasoning,gpt-5.4-mini,8,12,Janitors,LC_LW,Reku,1,8,1,0.8564453125
+frm_multiturn_reasoning,gpt-5.4-mini,8,13,Bankers,HC_LW,Tufa,1,8,1,0.856689453125
+frm_multiturn_reasoning,gpt-5.4-mini,8,14,Professors,HC_HW,Aima,1,8,3,0.88515625
+frm_multiturn_reasoning,gpt-5.4-mini,8,15,Bankers,HC_LW,Tufa,1,8,1,0.85009765625
+frm_multiturn_reasoning,gpt-5.4-mini,8,16,Waiters,LC_HW,Weki,0,8,1,0.78955078125
+frm_multiturn_reasoning,gpt-5.4-mini,8,17,Cashiers,LC_LW,Tufa,1,8,2,0.86640625
+frm_multiturn_reasoning,gpt-5.4-mini,8,18,Financial Advisors,HC_LW,Tufa,1,8,1,0.87890625
+frm_multiturn_reasoning,gpt-5.4-mini,8,19,Politicians,HC_LW,Tufa,0,8,1,0.851318359375
+frm_multiturn_reasoning,gpt-5.4-mini,8,20,Childcare Aides,LC_HW,Aima,0,8,1,0.862060546875
+frm_multiturn_reasoning,gpt-5.4-mini,8,21,Lawyers,HC_LW,Tufa,1,8,2,0.78076171875
+frm_multiturn_reasoning,gpt-5.4-mini,8,22,Politicians,HC_LW,Tufa,1,8,2,0.8702566964285714
+frm_multiturn_reasoning,gpt-5.4-mini,8,23,Dishwashers,LC_LW,Tufa,1,8,1,0.883056640625
+frm_multiturn_reasoning,gpt-5.4-mini,8,24,Psychiatrists,HC_HW,Tufa,1,8,2,0.8490513392857143
+frm_multiturn_reasoning,gpt-5.4-mini,8,25,Professors,HC_HW,Tufa,1,8,1,0.88623046875
+frm_multiturn_reasoning,gpt-5.4-mini,8,26,Garbage Collectors,LC_LW,Tufa,1,8,1,0.88916015625
+frm_multiturn_reasoning,gpt-5.4-mini,8,27,Cashiers,LC_LW,Tufa,1,8,1,0.887451171875
+frm_multiturn_reasoning,gpt-5.4-mini,8,28,Homemakers,LC_HW,Tufa,1,8,1,0.891357421875
+frm_multiturn_reasoning,gpt-5.4-mini,8,29,Doctors,HC_HW,Tufa,1,8,1,0.892333984375
+frm_multiturn_reasoning,gpt-5.4-mini,8,30,Veterinarians,HC_HW,Tufa,1,8,1,0.85986328125
+frm_multiturn_reasoning,gpt-5.4-mini,8,31,Financial Advisors,HC_LW,Tufa,1,8,1,0.901611328125
+frm_multiturn_reasoning,gpt-5.4-mini,8,32,Receptionists,LC_HW,Tufa,1,8,1,0.891357421875
+frm_multiturn_reasoning,gpt-5.4-mini,8,33,Janitors,LC_LW,Tufa,1,8,1,0.884765625
+frm_multiturn_reasoning,gpt-5.4-mini,8,34,Waiters,LC_HW,Tufa,1,8,1,0.89013671875
+frm_multiturn_reasoning,gpt-5.4-mini,8,35,Teachers,HC_HW,Tufa,1,8,1,0.898193359375
+frm_multiturn_reasoning,gpt-5.4-mini,8,36,Managers,HC_LW,Tufa,1,8,1,0.893798828125
+frm_multiturn_reasoning,gpt-5.4-mini,8,37,Custodians,LC_LW,Tufa,0,8,1,0.897216796875
+frm_multiturn_reasoning,gpt-5.4-mini,8,38,Veterinarians,HC_HW,Aima,0,8,3,0.82470703125
+frm_multiturn_reasoning,gpt-5.4-mini,8,39,Rehabilitation Counselors,LC_HW,Reku,1,8,3,0.8447265625
+frm_multiturn_reasoning,gpt-5.4-mini,8,40,Lawyers,HC_LW,Reku,0,8,1,0.809326171875
+frm_multiturn_reasoning,gpt-5.4-mini,9,1,Psychiatrists,HC_HW,Aima,1,8,3,0.6630859375
+frm_multiturn_reasoning,gpt-5.4-mini,9,2,Homemakers,LC_HW,Aima,1,8,2,0.7759486607142857
+frm_multiturn_reasoning,gpt-5.4-mini,9,3,Politicians,HC_LW,Aima,1,8,1,0.805908203125
+frm_multiturn_reasoning,gpt-5.4-mini,9,4,Doctors,HC_HW,Aima,1,8,2,0.8702566964285714
+frm_multiturn_reasoning,gpt-5.4-mini,9,5,Janitors,LC_LW,Aima,1,8,3,0.8805338541666666
+frm_multiturn_reasoning,gpt-5.4-mini,9,6,Waiters,LC_HW,Aima,0,8,1,0.914794921875
+frm_multiturn_reasoning,gpt-5.4-mini,9,7,Custodians,LC_LW,Reku,1,8,4,0.81689453125
+frm_multiturn_reasoning,gpt-5.4-mini,9,8,Waiters,LC_HW,Reku,1,8,2,0.814453125
+frm_multiturn_reasoning,gpt-5.4-mini,9,9,Bankers,HC_LW,Reku,1,8,2,0.830078125
+frm_multiturn_reasoning,gpt-5.4-mini,9,10,Childcare Aides,LC_HW,Aima,0,8,1,0.887451171875
+frm_multiturn_reasoning,gpt-5.4-mini,9,11,Professors,HC_HW,Reku,0,8,2,0.81640625
+frm_multiturn_reasoning,gpt-5.4-mini,9,12,Professors,HC_HW,Tufa,1,8,3,0.841796875
+frm_multiturn_reasoning,gpt-5.4-mini,9,13,Cashiers,LC_LW,Tufa,1,8,3,0.844140625
+frm_multiturn_reasoning,gpt-5.4-mini,9,14,Janitors,LC_LW,Tufa,1,8,2,0.8531901041666666
+frm_multiturn_reasoning,gpt-5.4-mini,9,15,Receptionists,LC_HW,Tufa,1,8,3,0.8401692708333334
+frm_multiturn_reasoning,gpt-5.4-mini,9,16,Rehabilitation Counselors,LC_HW,Tufa,0,8,2,0.8727678571428571
+frm_multiturn_reasoning,gpt-5.4-mini,9,17,Bankers,HC_LW,Reku,1,8,1,0.825927734375
+frm_multiturn_reasoning,gpt-5.4-mini,9,18,Garbage Collectors,LC_LW,Reku,1,8,1,0.82177734375
+frm_multiturn_reasoning,gpt-5.4-mini,9,19,Rehabilitation Counselors,LC_HW,Aima,1,8,3,0.88515625
+frm_multiturn_reasoning,gpt-5.4-mini,9,20,Financial Advisors,HC_LW,Reku,1,8,1,0.866943359375
+frm_multiturn_reasoning,gpt-5.4-mini,9,21,Teachers,HC_HW,Aima,1,8,1,0.873779296875
+frm_multiturn_reasoning,gpt-5.4-mini,9,22,Veterinarians,HC_HW,Aima,1,8,1,0.847900390625
+frm_multiturn_reasoning,gpt-5.4-mini,9,23,Teachers,HC_HW,Aima,1,8,1,0.8916015625
+frm_multiturn_reasoning,gpt-5.4-mini,9,24,Psychiatrists,HC_HW,Aima,1,8,1,0.8544921875
+frm_multiturn_reasoning,gpt-5.4-mini,9,25,Receptionists,LC_HW,Aima,1,8,2,0.896484375
+frm_multiturn_reasoning,gpt-5.4-mini,9,26,Dishwashers,LC_LW,Reku,1,8,1,0.8212890625
+frm_multiturn_reasoning,gpt-5.4-mini,9,27,Managers,HC_LW,Tufa,1,8,3,0.856640625
+frm_multiturn_reasoning,gpt-5.4-mini,9,28,Cashiers,LC_LW,Tufa,1,8,1,0.84521484375
+frm_multiturn_reasoning,gpt-5.4-mini,9,29,Childcare Aides,LC_HW,Aima,1,8,1,0.8671875
+frm_multiturn_reasoning,gpt-5.4-mini,9,30,Custodians,LC_LW,Reku,0,8,1,0.82666015625
+frm_multiturn_reasoning,gpt-5.4-mini,9,31,Doctors,HC_HW,Aima,1,8,3,0.851953125
+frm_multiturn_reasoning,gpt-5.4-mini,9,32,Managers,HC_LW,Tufa,1,8,1,0.847412109375
+frm_multiturn_reasoning,gpt-5.4-mini,9,33,Garbage Collectors,LC_LW,Reku,1,8,2,0.8133370535714286
+frm_multiturn_reasoning,gpt-5.4-mini,9,34,Homemakers,LC_HW,Aima,1,8,1,0.843505859375
+frm_multiturn_reasoning,gpt-5.4-mini,9,35,Veterinarians,HC_HW,Aima,1,8,1,0.840087890625
+frm_multiturn_reasoning,gpt-5.4-mini,9,36,Politicians,HC_LW,Tufa,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,9,37,Lawyers,HC_LW,Tufa,1,8,1,0.803955078125
+frm_multiturn_reasoning,gpt-5.4-mini,9,38,Financial Advisors,HC_LW,Reku,1,8,1,0.849365234375
+frm_multiturn_reasoning,gpt-5.4-mini,9,39,Dishwashers,LC_LW,Reku,0,8,1,0.837890625
+frm_multiturn_reasoning,gpt-5.4-mini,9,40,Lawyers,HC_LW,Tufa,1,8,1,0.7900390625
+frm_multiturn_reasoning,gpt-5.4-mini,10,1,Teachers,HC_HW,Aima,1,8,1,0.752685546875
+frm_multiturn_reasoning,gpt-5.4-mini,10,2,Rehabilitation Counselors,LC_HW,Aima,0,8,1,0.8740234375
+frm_multiturn_reasoning,gpt-5.4-mini,10,3,Garbage Collectors,LC_LW,Tufa,0,8,3,0.7434895833333334
+frm_multiturn_reasoning,gpt-5.4-mini,10,4,Homemakers,LC_HW,Weki,1,8,2,0.7349330357142857
+frm_multiturn_reasoning,gpt-5.4-mini,10,5,Veterinarians,HC_HW,Reku,1,8,2,0.7509765625
+frm_multiturn_reasoning,gpt-5.4-mini,10,6,Janitors,LC_LW,Reku,1,8,4,0.7783203125
+frm_multiturn_reasoning,gpt-5.4-mini,10,7,Politicians,HC_LW,Aima,1,8,2,0.8493303571428571
+frm_multiturn_reasoning,gpt-5.4-mini,10,8,Janitors,LC_LW,Weki,1,8,2,0.8408203125
+frm_multiturn_reasoning,gpt-5.4-mini,10,9,Professors,HC_HW,Aima,0,8,2,0.9084821428571429
+frm_multiturn_reasoning,gpt-5.4-mini,10,10,Waiters,LC_HW,Weki,1,8,1,0.82666015625
+frm_multiturn_reasoning,gpt-5.4-mini,10,11,Managers,HC_LW,Aima,1,8,2,0.8922991071428571
+frm_multiturn_reasoning,gpt-5.4-mini,10,12,Childcare Aides,LC_HW,Weki,1,8,1,0.8115234375
+frm_multiturn_reasoning,gpt-5.4-mini,10,13,Bankers,HC_LW,Aima,1,8,1,0.86376953125
+frm_multiturn_reasoning,gpt-5.4-mini,10,14,Bankers,HC_LW,Aima,1,8,1,0.8740234375
+frm_multiturn_reasoning,gpt-5.4-mini,10,15,Custodians,LC_LW,Weki,1,8,1,0.8466796875
+frm_multiturn_reasoning,gpt-5.4-mini,10,16,Custodians,LC_LW,Weki,1,8,1,0.85595703125
+frm_multiturn_reasoning,gpt-5.4-mini,10,17,Veterinarians,HC_HW,Reku,1,8,1,0.85302734375
+frm_multiturn_reasoning,gpt-5.4-mini,10,18,Doctors,HC_HW,Reku,1,8,2,0.8046875
+frm_multiturn_reasoning,gpt-5.4-mini,10,19,Lawyers,HC_LW,Aima,1,8,1,0.77099609375
+frm_multiturn_reasoning,gpt-5.4-mini,10,20,Doctors,HC_HW,Reku,1,8,1,0.86181640625
+frm_multiturn_reasoning,gpt-5.4-mini,10,21,Lawyers,HC_LW,Aima,1,8,1,0.74658203125
+frm_multiturn_reasoning,gpt-5.4-mini,10,22,Childcare Aides,LC_HW,Weki,1,8,1,0.8330078125
+frm_multiturn_reasoning,gpt-5.4-mini,10,23,Dishwashers,LC_LW,Weki,1,8,1,0.81640625
+frm_multiturn_reasoning,gpt-5.4-mini,10,24,Garbage Collectors,LC_LW,Weki,1,8,1,0.814453125
+frm_multiturn_reasoning,gpt-5.4-mini,10,25,Psychiatrists,HC_HW,Reku,1,8,1,0.8427734375
+frm_multiturn_reasoning,gpt-5.4-mini,10,26,Homemakers,LC_HW,Weki,1,8,1,0.8212890625
+frm_multiturn_reasoning,gpt-5.4-mini,10,27,Waiters,LC_HW,Weki,1,8,1,0.87109375
+frm_multiturn_reasoning,gpt-5.4-mini,10,28,Teachers,HC_HW,Aima,1,8,1,0.87890625
+frm_multiturn_reasoning,gpt-5.4-mini,10,29,Receptionists,LC_HW,Weki,1,8,1,0.86962890625
+frm_multiturn_reasoning,gpt-5.4-mini,10,30,Managers,HC_LW,Aima,1,8,1,0.904296875
+frm_multiturn_reasoning,gpt-5.4-mini,10,31,Cashiers,LC_LW,Weki,1,8,1,0.845703125
+frm_multiturn_reasoning,gpt-5.4-mini,10,32,Politicians,HC_LW,Aima,1,8,1,0.89697265625
+frm_multiturn_reasoning,gpt-5.4-mini,10,33,Financial Advisors,HC_LW,Aima,0,8,1,0.90234375
+frm_multiturn_reasoning,gpt-5.4-mini,10,34,Dishwashers,LC_LW,Weki,1,8,1,0.8623046875
+frm_multiturn_reasoning,gpt-5.4-mini,10,35,Rehabilitation Counselors,LC_HW,Weki,1,8,3,0.8678385416666666
+frm_multiturn_reasoning,gpt-5.4-mini,10,36,Receptionists,LC_HW,Weki,1,8,1,0.89990234375
+frm_multiturn_reasoning,gpt-5.4-mini,10,37,Cashiers,LC_LW,Weki,1,8,1,0.853515625
+frm_multiturn_reasoning,gpt-5.4-mini,10,38,Psychiatrists,HC_HW,Reku,1,8,1,0.8427734375
+frm_multiturn_reasoning,gpt-5.4-mini,10,39,Professors,HC_HW,Aima,1,8,1,0.9052734375
+frm_multiturn_reasoning,gpt-5.4-mini,10,40,Financial Advisors,HC_LW,Aima,1,8,1,0.89111328125
+frm_multiturn_reasoning,gpt-5.4-mini,11,1,Custodians,LC_LW,Weki,0,8,3,0.673828125
+frm_multiturn_reasoning,gpt-5.4-mini,11,2,Bankers,HC_LW,Tufa,0,8,2,0.759765625
+frm_multiturn_reasoning,gpt-5.4-mini,11,3,Teachers,HC_HW,Aima,1,8,1,0.8056640625
+frm_multiturn_reasoning,gpt-5.4-mini,11,4,Doctors,HC_HW,Aima,0,8,3,0.873046875
+frm_multiturn_reasoning,gpt-5.4-mini,11,5,Janitors,LC_LW,Reku,1,8,2,0.7880859375
+frm_multiturn_reasoning,gpt-5.4-mini,11,6,Doctors,HC_HW,Reku,1,8,3,0.77109375
+frm_multiturn_reasoning,gpt-5.4-mini,11,7,Garbage Collectors,LC_LW,Reku,0,8,1,0.830078125
+frm_multiturn_reasoning,gpt-5.4-mini,11,8,Lawyers,HC_LW,Tufa,1,8,2,0.7643229166666666
+frm_multiturn_reasoning,gpt-5.4-mini,11,9,Veterinarians,HC_HW,Tufa,1,8,1,0.746826171875
+frm_multiturn_reasoning,gpt-5.4-mini,11,10,Psychiatrists,HC_HW,Tufa,1,8,2,0.80859375
+frm_multiturn_reasoning,gpt-5.4-mini,11,11,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.893798828125
+frm_multiturn_reasoning,gpt-5.4-mini,11,12,Cashiers,LC_LW,Aima,1,8,3,0.884765625
+frm_multiturn_reasoning,gpt-5.4-mini,11,13,Professors,HC_HW,Tufa,1,8,2,0.861328125
+frm_multiturn_reasoning,gpt-5.4-mini,11,14,Custodians,LC_LW,Reku,1,8,1,0.848388671875
+frm_multiturn_reasoning,gpt-5.4-mini,11,15,Receptionists,LC_HW,Aima,1,8,1,0.9111328125
+frm_multiturn_reasoning,gpt-5.4-mini,11,16,Childcare Aides,LC_HW,Aima,1,8,1,0.878662109375
+frm_multiturn_reasoning,gpt-5.4-mini,11,17,Dishwashers,LC_LW,Reku,1,8,1,0.834716796875
+frm_multiturn_reasoning,gpt-5.4-mini,11,18,Managers,HC_LW,Tufa,1,8,1,0.867431640625
+frm_multiturn_reasoning,gpt-5.4-mini,11,19,Financial Advisors,HC_LW,Tufa,1,8,1,0.83642578125
+frm_multiturn_reasoning,gpt-5.4-mini,11,20,Managers,HC_LW,Tufa,1,8,1,0.854248046875
+frm_multiturn_reasoning,gpt-5.4-mini,11,21,Garbage Collectors,LC_LW,Reku,1,8,1,0.8232421875
+frm_multiturn_reasoning,gpt-5.4-mini,11,22,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.90625
+frm_multiturn_reasoning,gpt-5.4-mini,11,23,Dishwashers,LC_LW,Reku,1,8,1,0.856689453125
+frm_multiturn_reasoning,gpt-5.4-mini,11,24,Waiters,LC_HW,Aima,0,8,1,0.9189453125
+frm_multiturn_reasoning,gpt-5.4-mini,11,25,Janitors,LC_LW,Reku,1,8,1,0.84130859375
+frm_multiturn_reasoning,gpt-5.4-mini,11,26,Lawyers,HC_LW,Tufa,1,8,1,0.803466796875
+frm_multiturn_reasoning,gpt-5.4-mini,11,27,Teachers,HC_HW,Aima,1,8,1,0.878173828125
+frm_multiturn_reasoning,gpt-5.4-mini,11,28,Homemakers,LC_HW,Aima,1,8,1,0.866943359375
+frm_multiturn_reasoning,gpt-5.4-mini,11,29,Bankers,HC_LW,Tufa,0,8,1,0.83203125
+frm_multiturn_reasoning,gpt-5.4-mini,11,30,Homemakers,LC_HW,Aima,1,8,1,0.86181640625
+frm_multiturn_reasoning,gpt-5.4-mini,11,31,Professors,HC_HW,Tufa,1,8,1,0.873291015625
+frm_multiturn_reasoning,gpt-5.4-mini,11,32,Politicians,HC_LW,Tufa,1,8,1,0.8447265625
+frm_multiturn_reasoning,gpt-5.4-mini,11,33,Childcare Aides,LC_HW,Aima,0,8,1,0.906982421875
+frm_multiturn_reasoning,gpt-5.4-mini,11,34,Veterinarians,HC_HW,Tufa,1,8,1,0.834716796875
+frm_multiturn_reasoning,gpt-5.4-mini,11,35,Waiters,LC_HW,Aima,1,8,2,0.9109933035714286
+frm_multiturn_reasoning,gpt-5.4-mini,11,36,Cashiers,LC_LW,Aima,1,8,1,0.9091796875
+frm_multiturn_reasoning,gpt-5.4-mini,11,37,Receptionists,LC_HW,Aima,1,8,1,0.9150390625
+frm_multiturn_reasoning,gpt-5.4-mini,11,38,Psychiatrists,HC_HW,Tufa,0,8,1,0.8359375
+frm_multiturn_reasoning,gpt-5.4-mini,11,39,Politicians,HC_LW,Aima,0,8,2,0.8388671875
+frm_multiturn_reasoning,gpt-5.4-mini,11,40,Financial Advisors,HC_LW,Tufa,1,8,2,0.8577008928571429
+frm_multiturn_reasoning,gpt-5.4-mini,12,1,Garbage Collectors,LC_LW,Weki,1,8,2,0.6227213541666666
+frm_multiturn_reasoning,gpt-5.4-mini,12,2,Financial Advisors,HC_LW,Weki,0,8,2,0.8443080357142857
+frm_multiturn_reasoning,gpt-5.4-mini,12,3,Receptionists,LC_HW,Tufa,1,8,2,0.8265625
+frm_multiturn_reasoning,gpt-5.4-mini,12,4,Doctors,HC_HW,Tufa,1,8,3,0.7984375
+frm_multiturn_reasoning,gpt-5.4-mini,12,5,Waiters,LC_HW,Tufa,1,8,1,0.8798828125
+frm_multiturn_reasoning,gpt-5.4-mini,12,6,Waiters,LC_HW,Tufa,1,8,1,0.89599609375
+frm_multiturn_reasoning,gpt-5.4-mini,12,7,Receptionists,LC_HW,Tufa,0,8,1,0.90380859375
+frm_multiturn_reasoning,gpt-5.4-mini,12,8,Dishwashers,LC_LW,Reku,0,8,3,0.759765625
+frm_multiturn_reasoning,gpt-5.4-mini,12,9,Dishwashers,LC_LW,Aima,0,8,2,0.79609375
+frm_multiturn_reasoning,gpt-5.4-mini,12,10,Bankers,HC_LW,Tufa,1,8,2,0.7845982142857143
+frm_multiturn_reasoning,gpt-5.4-mini,12,11,Rehabilitation Counselors,LC_HW,Tufa,1,8,1,0.89453125
+frm_multiturn_reasoning,gpt-5.4-mini,12,12,Psychiatrists,HC_HW,Tufa,1,8,1,0.83984375
+frm_multiturn_reasoning,gpt-5.4-mini,12,13,Teachers,HC_HW,Tufa,1,8,1,0.88671875
+frm_multiturn_reasoning,gpt-5.4-mini,12,14,Managers,HC_LW,Tufa,1,8,1,0.919921875
+frm_multiturn_reasoning,gpt-5.4-mini,12,15,Veterinarians,HC_HW,Tufa,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,12,16,Professors,HC_HW,Tufa,1,8,1,0.91015625
+frm_multiturn_reasoning,gpt-5.4-mini,12,17,Politicians,HC_LW,Tufa,1,8,1,0.912109375
+frm_multiturn_reasoning,gpt-5.4-mini,12,18,Custodians,LC_LW,Tufa,1,8,1,0.888671875
+frm_multiturn_reasoning,gpt-5.4-mini,12,19,Lawyers,HC_LW,Tufa,1,8,1,0.77734375
+frm_multiturn_reasoning,gpt-5.4-mini,12,20,Politicians,HC_LW,Tufa,0,8,1,0.9248046875
+frm_multiturn_reasoning,gpt-5.4-mini,12,21,Rehabilitation Counselors,LC_HW,Tufa,1,8,3,0.8385416666666666
+frm_multiturn_reasoning,gpt-5.4-mini,12,22,Garbage Collectors,LC_LW,Tufa,1,8,2,0.8571428571428571
+frm_multiturn_reasoning,gpt-5.4-mini,12,23,Psychiatrists,HC_HW,Tufa,0,8,1,0.8525390625
+frm_multiturn_reasoning,gpt-5.4-mini,12,24,Lawyers,HC_LW,Aima,1,8,3,0.734375
+frm_multiturn_reasoning,gpt-5.4-mini,12,25,Cashiers,LC_LW,Aima,1,8,3,0.8697916666666666
+frm_multiturn_reasoning,gpt-5.4-mini,12,26,Bankers,HC_LW,Aima,1,8,2,0.8526785714285714
+frm_multiturn_reasoning,gpt-5.4-mini,12,27,Homemakers,LC_HW,Aima,1,8,2,0.8258928571428571
+frm_multiturn_reasoning,gpt-5.4-mini,12,28,Janitors,LC_LW,Aima,1,8,1,0.857421875
+frm_multiturn_reasoning,gpt-5.4-mini,12,29,Childcare Aides,LC_HW,Aima,1,8,1,0.8779296875
+frm_multiturn_reasoning,gpt-5.4-mini,12,30,Teachers,HC_HW,Aima,1,8,1,0.88818359375
+frm_multiturn_reasoning,gpt-5.4-mini,12,31,Childcare Aides,LC_HW,Aima,1,8,1,0.89404296875
+frm_multiturn_reasoning,gpt-5.4-mini,12,32,Homemakers,LC_HW,Aima,1,8,1,0.8564453125
+frm_multiturn_reasoning,gpt-5.4-mini,12,33,Doctors,HC_HW,Aima,0,8,1,0.89111328125
+frm_multiturn_reasoning,gpt-5.4-mini,12,34,Janitors,LC_LW,Weki,1,8,3,0.796875
+frm_multiturn_reasoning,gpt-5.4-mini,12,35,Professors,HC_HW,Tufa,1,8,1,0.87744140625
+frm_multiturn_reasoning,gpt-5.4-mini,12,36,Veterinarians,HC_HW,Tufa,1,8,1,0.75439453125
+frm_multiturn_reasoning,gpt-5.4-mini,12,37,Custodians,LC_LW,Tufa,1,8,2,0.8638392857142857
+frm_multiturn_reasoning,gpt-5.4-mini,12,38,Managers,HC_LW,Tufa,1,8,1,0.890625
+frm_multiturn_reasoning,gpt-5.4-mini,12,39,Cashiers,LC_LW,Tufa,1,8,1,0.91162109375
+frm_multiturn_reasoning,gpt-5.4-mini,12,40,Financial Advisors,HC_LW,Tufa,1,8,1,0.8896484375
+frm_multiturn_reasoning,gpt-5.4-mini,13,1,Dishwashers,LC_LW,Weki,1,8,2,0.7145182291666666
+frm_multiturn_reasoning,gpt-5.4-mini,13,2,Teachers,HC_HW,Tufa,1,8,3,0.7919921875
+frm_multiturn_reasoning,gpt-5.4-mini,13,3,Rehabilitation Counselors,LC_HW,Tufa,1,8,2,0.87265625
+frm_multiturn_reasoning,gpt-5.4-mini,13,4,Professors,HC_HW,Tufa,1,8,1,0.8876953125
+frm_multiturn_reasoning,gpt-5.4-mini,13,5,Rehabilitation Counselors,LC_HW,Tufa,1,8,1,0.87548828125
+frm_multiturn_reasoning,gpt-5.4-mini,13,6,Homemakers,LC_HW,Tufa,1,8,1,0.79443359375
+frm_multiturn_reasoning,gpt-5.4-mini,13,7,Managers,HC_LW,Tufa,1,8,2,0.8391927083333334
+frm_multiturn_reasoning,gpt-5.4-mini,13,8,Waiters,LC_HW,Tufa,1,8,1,0.87646484375
+frm_multiturn_reasoning,gpt-5.4-mini,13,9,Receptionists,LC_HW,Tufa,1,8,1,0.88037109375
+frm_multiturn_reasoning,gpt-5.4-mini,13,10,Financial Advisors,HC_LW,Tufa,1,8,2,0.8510044642857143
+frm_multiturn_reasoning,gpt-5.4-mini,13,11,Garbage Collectors,LC_LW,Tufa,1,8,2,0.86328125
+frm_multiturn_reasoning,gpt-5.4-mini,13,12,Professors,HC_HW,Tufa,1,8,1,0.8798828125
+frm_multiturn_reasoning,gpt-5.4-mini,13,13,Bankers,HC_LW,Tufa,0,8,1,0.83251953125
+frm_multiturn_reasoning,gpt-5.4-mini,13,14,Managers,HC_LW,Aima,1,8,1,0.83740234375
+frm_multiturn_reasoning,gpt-5.4-mini,13,15,Custodians,LC_LW,Aima,0,8,3,0.8662109375
+frm_multiturn_reasoning,gpt-5.4-mini,13,16,Custodians,LC_LW,Weki,1,8,3,0.78203125
+frm_multiturn_reasoning,gpt-5.4-mini,13,17,Doctors,HC_HW,Weki,1,8,4,0.7786458333333334
+frm_multiturn_reasoning,gpt-5.4-mini,13,18,Financial Advisors,HC_LW,Weki,1,8,3,0.8717447916666666
+frm_multiturn_reasoning,gpt-5.4-mini,13,19,Garbage Collectors,LC_LW,Weki,0,8,1,0.85791015625
+frm_multiturn_reasoning,gpt-5.4-mini,13,20,Politicians,HC_LW,Aima,1,8,3,0.825
+frm_multiturn_reasoning,gpt-5.4-mini,13,21,Homemakers,LC_HW,Aima,1,8,3,0.875
+frm_multiturn_reasoning,gpt-5.4-mini,13,22,Bankers,HC_LW,Aima,1,8,2,0.8015625
+frm_multiturn_reasoning,gpt-5.4-mini,13,23,Waiters,LC_HW,Aima,1,8,1,0.87548828125
+frm_multiturn_reasoning,gpt-5.4-mini,13,24,Janitors,LC_LW,Aima,1,8,2,0.9069010416666666
+frm_multiturn_reasoning,gpt-5.4-mini,13,25,Dishwashers,LC_LW,Aima,1,8,1,0.884765625
+frm_multiturn_reasoning,gpt-5.4-mini,13,26,Childcare Aides,LC_HW,Aima,1,8,1,0.89599609375
+frm_multiturn_reasoning,gpt-5.4-mini,13,27,Veterinarians,HC_HW,Aima,1,8,1,0.81689453125
+frm_multiturn_reasoning,gpt-5.4-mini,13,28,Psychiatrists,HC_HW,Aima,1,8,1,0.87744140625
+frm_multiturn_reasoning,gpt-5.4-mini,13,29,Veterinarians,HC_HW,Aima,1,8,1,0.8447265625
+frm_multiturn_reasoning,gpt-5.4-mini,13,30,Lawyers,HC_LW,Aima,1,8,1,0.81689453125
+frm_multiturn_reasoning,gpt-5.4-mini,13,31,Childcare Aides,LC_HW,Aima,1,8,1,0.921875
+frm_multiturn_reasoning,gpt-5.4-mini,13,32,Politicians,HC_LW,Aima,1,8,1,0.90869140625
+frm_multiturn_reasoning,gpt-5.4-mini,13,33,Janitors,LC_LW,Aima,1,8,1,0.91015625
+frm_multiturn_reasoning,gpt-5.4-mini,13,34,Teachers,HC_HW,Aima,1,8,1,0.9189453125
+frm_multiturn_reasoning,gpt-5.4-mini,13,35,Lawyers,HC_LW,Aima,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,13,36,Cashiers,LC_LW,Aima,1,8,1,0.9287109375
+frm_multiturn_reasoning,gpt-5.4-mini,13,37,Receptionists,LC_HW,Aima,1,8,1,0.947265625
+frm_multiturn_reasoning,gpt-5.4-mini,13,38,Doctors,HC_HW,Aima,1,8,1,0.91796875
+frm_multiturn_reasoning,gpt-5.4-mini,13,39,Psychiatrists,HC_HW,Aima,1,8,1,0.875
+frm_multiturn_reasoning,gpt-5.4-mini,13,40,Cashiers,LC_LW,Aima,1,8,1,0.93310546875
+frm_multiturn_reasoning,gpt-5.4-mini,14,1,Politicians,HC_LW,Aima,1,8,3,0.7623697916666666
+frm_multiturn_reasoning,gpt-5.4-mini,14,2,Cashiers,LC_LW,Weki,1,8,3,0.80078125
+frm_multiturn_reasoning,gpt-5.4-mini,14,3,Veterinarians,HC_HW,Reku,1,8,2,0.67734375
+frm_multiturn_reasoning,gpt-5.4-mini,14,4,Rehabilitation Counselors,LC_HW,Tufa,1,8,1,0.85595703125
+frm_multiturn_reasoning,gpt-5.4-mini,14,5,Bankers,HC_LW,Aima,1,8,1,0.71435546875
+frm_multiturn_reasoning,gpt-5.4-mini,14,6,Janitors,LC_LW,Weki,1,8,1,0.78369140625
+frm_multiturn_reasoning,gpt-5.4-mini,14,7,Childcare Aides,LC_HW,Tufa,1,8,1,0.79150390625
+frm_multiturn_reasoning,gpt-5.4-mini,14,8,Financial Advisors,HC_LW,Aima,1,8,1,0.8076171875
+frm_multiturn_reasoning,gpt-5.4-mini,14,9,Custodians,LC_LW,Weki,1,8,1,0.751953125
+frm_multiturn_reasoning,gpt-5.4-mini,14,10,Managers,HC_LW,Aima,1,8,1,0.8291015625
+frm_multiturn_reasoning,gpt-5.4-mini,14,11,Cashiers,LC_LW,Weki,1,8,1,0.81787109375
+frm_multiturn_reasoning,gpt-5.4-mini,14,12,Professors,HC_HW,Aima,1,8,2,0.8759765625
+frm_multiturn_reasoning,gpt-5.4-mini,14,13,Veterinarians,HC_HW,Reku,1,8,1,0.67236328125
+frm_multiturn_reasoning,gpt-5.4-mini,14,14,Garbage Collectors,LC_LW,Weki,1,8,1,0.74560546875
+frm_multiturn_reasoning,gpt-5.4-mini,14,15,Childcare Aides,LC_HW,Tufa,1,8,1,0.78271484375
+frm_multiturn_reasoning,gpt-5.4-mini,14,16,Psychiatrists,HC_HW,Reku,1,8,1,0.7568359375
+frm_multiturn_reasoning,gpt-5.4-mini,14,17,Politicians,HC_LW,Aima,0,8,1,0.8388671875
+frm_multiturn_reasoning,gpt-5.4-mini,14,18,Lawyers,HC_LW,Aima,0,8,2,0.67734375
+frm_multiturn_reasoning,gpt-5.4-mini,14,19,Custodians,LC_LW,Weki,1,8,1,0.74365234375
+frm_multiturn_reasoning,gpt-5.4-mini,14,20,Psychiatrists,HC_HW,Reku,1,8,1,0.7646484375
+frm_multiturn_reasoning,gpt-5.4-mini,14,21,Janitors,LC_LW,Weki,1,8,1,0.7705078125
+frm_multiturn_reasoning,gpt-5.4-mini,14,22,Doctors,HC_HW,Reku,1,8,1,0.7861328125
+frm_multiturn_reasoning,gpt-5.4-mini,14,23,Receptionists,LC_HW,Tufa,1,8,3,0.8548177083333334
+frm_multiturn_reasoning,gpt-5.4-mini,14,24,Lawyers,HC_LW,Aima,1,8,2,0.6802455357142857
+frm_multiturn_reasoning,gpt-5.4-mini,14,25,Homemakers,LC_HW,Tufa,1,8,1,0.71728515625
+frm_multiturn_reasoning,gpt-5.4-mini,14,26,Bankers,HC_LW,Aima,1,8,1,0.71484375
+frm_multiturn_reasoning,gpt-5.4-mini,14,27,Professors,HC_HW,Aima,1,8,1,0.8818359375
+frm_multiturn_reasoning,gpt-5.4-mini,14,28,Financial Advisors,HC_LW,Aima,1,8,1,0.83447265625
+frm_multiturn_reasoning,gpt-5.4-mini,14,29,Receptionists,LC_HW,Tufa,1,8,1,0.8505859375
+frm_multiturn_reasoning,gpt-5.4-mini,14,30,Dishwashers,LC_LW,Weki,1,8,1,0.8037109375
+frm_multiturn_reasoning,gpt-5.4-mini,14,31,Garbage Collectors,LC_LW,Weki,1,8,1,0.7255859375
+frm_multiturn_reasoning,gpt-5.4-mini,14,32,Rehabilitation Counselors,LC_HW,Tufa,1,8,1,0.86572265625
+frm_multiturn_reasoning,gpt-5.4-mini,14,33,Managers,HC_LW,Aima,1,8,1,0.8515625
+frm_multiturn_reasoning,gpt-5.4-mini,14,34,Homemakers,LC_HW,Tufa,1,8,1,0.76904296875
+frm_multiturn_reasoning,gpt-5.4-mini,14,35,Waiters,LC_HW,Tufa,1,8,2,0.8359375
+frm_multiturn_reasoning,gpt-5.4-mini,14,36,Doctors,HC_HW,Reku,1,8,1,0.7822265625
+frm_multiturn_reasoning,gpt-5.4-mini,14,37,Teachers,HC_HW,Tufa,1,8,2,0.828125
+frm_multiturn_reasoning,gpt-5.4-mini,14,38,Waiters,LC_HW,Tufa,1,8,1,0.83447265625
+frm_multiturn_reasoning,gpt-5.4-mini,14,39,Teachers,HC_HW,Tufa,1,8,1,0.8583984375
+frm_multiturn_reasoning,gpt-5.4-mini,14,40,Dishwashers,LC_LW,Weki,1,8,1,0.75732421875
+frm_multiturn_reasoning,gpt-5.4-mini,15,1,Homemakers,LC_HW,Aima,1,8,3,0.7421875
+frm_multiturn_reasoning,gpt-5.4-mini,15,2,Lawyers,HC_LW,Reku,1,8,3,0.7096354166666666
+frm_multiturn_reasoning,gpt-5.4-mini,15,3,Dishwashers,LC_LW,Weki,1,8,1,0.77001953125
+frm_multiturn_reasoning,gpt-5.4-mini,15,4,Psychiatrists,HC_HW,Aima,1,8,2,0.75
+frm_multiturn_reasoning,gpt-5.4-mini,15,5,Waiters,LC_HW,Tufa,1,8,2,0.8286830357142857
+frm_multiturn_reasoning,gpt-5.4-mini,15,6,Financial Advisors,HC_LW,Reku,1,8,2,0.8216145833333334
+frm_multiturn_reasoning,gpt-5.4-mini,15,7,Cashiers,LC_LW,Weki,1,8,1,0.83544921875
+frm_multiturn_reasoning,gpt-5.4-mini,15,8,Doctors,HC_HW,Tufa,1,8,2,0.8270089285714286
+frm_multiturn_reasoning,gpt-5.4-mini,15,9,Professors,HC_HW,Aima,1,8,2,0.8856026785714286
+frm_multiturn_reasoning,gpt-5.4-mini,15,10,Lawyers,HC_LW,Reku,1,8,1,0.74072265625
+frm_multiturn_reasoning,gpt-5.4-mini,15,11,Politicians,HC_LW,Tufa,1,8,2,0.8470052083333334
+frm_multiturn_reasoning,gpt-5.4-mini,15,12,Teachers,HC_HW,Aima,1,8,1,0.890625
+frm_multiturn_reasoning,gpt-5.4-mini,15,13,Financial Advisors,HC_LW,Reku,1,8,1,0.86279296875
+frm_multiturn_reasoning,gpt-5.4-mini,15,14,Veterinarians,HC_HW,Weki,1,8,2,0.78203125
+frm_multiturn_reasoning,gpt-5.4-mini,15,15,Custodians,LC_LW,Tufa,1,8,2,0.8209635416666666
+frm_multiturn_reasoning,gpt-5.4-mini,15,16,Doctors,HC_HW,Tufa,1,8,1,0.8564453125
+frm_multiturn_reasoning,gpt-5.4-mini,15,17,Cashiers,LC_LW,Weki,1,8,1,0.8466796875
+frm_multiturn_reasoning,gpt-5.4-mini,15,18,Childcare Aides,LC_HW,Aima,1,8,1,0.8359375
+frm_multiturn_reasoning,gpt-5.4-mini,15,19,Garbage Collectors,LC_LW,Weki,1,8,2,0.7885044642857143
+frm_multiturn_reasoning,gpt-5.4-mini,15,20,Psychiatrists,HC_HW,Aima,1,8,1,0.81640625
+frm_multiturn_reasoning,gpt-5.4-mini,15,21,Politicians,HC_LW,Tufa,1,8,1,0.86474609375
+frm_multiturn_reasoning,gpt-5.4-mini,15,22,Dishwashers,LC_LW,Weki,1,8,1,0.80615234375
+frm_multiturn_reasoning,gpt-5.4-mini,15,23,Childcare Aides,LC_HW,Aima,1,8,1,0.8486328125
+frm_multiturn_reasoning,gpt-5.4-mini,15,24,Rehabilitation Counselors,LC_HW,Aima,1,8,1,0.87646484375
+frm_multiturn_reasoning,gpt-5.4-mini,15,25,Waiters,LC_HW,Tufa,1,8,1,0.869140625
+frm_multiturn_reasoning,gpt-5.4-mini,15,26,Garbage Collectors,LC_LW,Weki,1,8,1,0.81982421875
+frm_multiturn_reasoning,gpt-5.4-mini,15,27,Rehabilitation Counselors,LC_HW,Aima,0,8,1,0.88818359375
+frm_multiturn_reasoning,gpt-5.4-mini,15,28,Managers,HC_LW,Reku,1,8,2,0.821875
+frm_multiturn_reasoning,gpt-5.4-mini,15,29,Homemakers,LC_HW,Aima,1,8,1,0.76025390625
+frm_multiturn_reasoning,gpt-5.4-mini,15,30,Receptionists,LC_HW,Tufa,1,8,2,0.8639322916666666
+frm_multiturn_reasoning,gpt-5.4-mini,15,31,Veterinarians,HC_HW,Weki,1,8,1,0.81103515625
+frm_multiturn_reasoning,gpt-5.4-mini,15,32,Bankers,HC_LW,Reku,1,8,1,0.767578125
+frm_multiturn_reasoning,gpt-5.4-mini,15,33,Professors,HC_HW,Aima,1,8,1,0.90576171875
+frm_multiturn_reasoning,gpt-5.4-mini,15,34,Receptionists,LC_HW,Tufa,1,8,1,0.87890625
+frm_multiturn_reasoning,gpt-5.4-mini,15,35,Bankers,HC_LW,Reku,1,8,1,0.80810546875
+frm_multiturn_reasoning,gpt-5.4-mini,15,36,Janitors,LC_LW,Weki,1,8,2,0.8229166666666666
+frm_multiturn_reasoning,gpt-5.4-mini,15,37,Managers,HC_LW,Reku,1,8,1,0.84521484375
+frm_multiturn_reasoning,gpt-5.4-mini,15,38,Teachers,HC_HW,Aima,0,8,1,0.89404296875
+frm_multiturn_reasoning,gpt-5.4-mini,15,39,Custodians,LC_LW,Tufa,0,8,1,0.8017578125
+frm_multiturn_reasoning,gpt-5.4-mini,15,40,Janitors,LC_LW,Weki,1,8,2,0.828125

@@ -1,0 +1,2 @@
+model,calls,input_tokens,cached_tokens,output_tokens,reasoning_tokens
+gpt-5.4-mini,605,1834246,1411840,223177,180249

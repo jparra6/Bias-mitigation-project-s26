@@ -1,1 +1,12 @@
 .env
+
+reward model/hf_cache/
+reward model/trash/
+
+reward model/*_partial.csv
+
+replication (prompt steering for fairness )/baseline replication/Parallel/pre-debug/
+replication (prompt steering for fairness )/baseline replication/Parallel/*_results_partial.csv
+
+replication (prompt steering for fairness )/prompt steering intervention (only parallel due cost)/pre-debug/
+replication (prompt steering for fairness )/prompt steering intervention (only parallel due cost)/*_results_partial.csv
